@@ -317,6 +317,8 @@ http://178.128.121.192/hlsmobile/web.m3u8
 ################################# FILM BARAT #####################################
 #EXTINF:-1 tvg-logo="https://pusatfilm21.club/wp-content/uploads/2020/02/4MyNGRvjOWZD7oU0y8Dso1NrJR5-60x90.jpg" group-title="FILM BARAT",Bebas (2019)
 https://drive.google.com/open?id=17IC1Dt8ndGPPg3-CeDY2UCcFQYCiaTOe
+#EXTINF:-1 tvg-logo="Bebas-2019.png" group-title="FILM INDONESIA NEW",Bebas (2019) 
+http://url.filmbluray.id/1lbt9hs 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3zWGzB5/Pokemon.jpg" group-title="FILM BARAT",Pokemon : Detective Pikachu
 https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
 #EXTINF:-1 tvg-logo="http://s4.indexmovie.biz/wp-content/uploads/2016/07/film-prison-break-the-final-break-2009.jpg" group-title="FILM BARAT",The Final Break-Prison break 
