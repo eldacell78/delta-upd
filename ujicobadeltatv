@@ -1,6 +1,6 @@
 #EXTM3U
 ################################# INFO OWNER #####################################
-#EXTINF:-1 group-title="INFO OWNER",(ID) INFO FREESAT
+#EXTINF:-1 group-title="INFO OWNER",(ID) INFO FREESAT 
 http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
 ################################# TV NASIONAL #####################################
 #EXTINF:-1 group-title="TV NASIONAL", TV ONE
@@ -19,6 +19,8 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://video2.onlivestreaming.net/dutatelevisi/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/60/Logo_Duta_TV.jpg" group-title="TV LOKAL",DUTA TV
 https://cdn2.broadcastindo.net/v/dutatelevisi.php
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MGMmvYGP/fruit-1222488-1280.png" group-title="TV LOKAL",PRIMA TV BANJARMASIN
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",KITANESIA
 http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",MALEO
@@ -69,6 +71,10 @@ http://lihattv.com/?play=18024
 http://122.248.32.234:1935/ch19/myStream/live.m3u8
 #EXTINF:-1 ,(ID) BTV BALIKPAPAN
 http://122.248.32.234:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 ,(ID) BTV BALIKPAPAN BACKUP
+http://122.248.43.138:1935/ch10/myStream/chunklist_w476334342.m3u8
+#EXTINF:-1 ,(ID) BTV BALIKPAPAN BACKUP 2
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 ,(ID) CITRA TV LAMONGAN
 http://122.248.32.234:1935/ch30/myStream/live.m3u8
 #EXTINF:-1 ,(ID) RADAR TV TASIKMALAYA
@@ -165,6 +171,8 @@ http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",RUMAH TV
 http://stream2.ninmedia.tv/rumahtv/rtmp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",RUMAH TV BACKUP
+https://video2.onlivestreaming.net/rumahtv/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",UATV
 http://stream1.ninmedia.tv/uatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",TV DESA
@@ -256,6 +264,31 @@ http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 http://lihattv.com/?play=36979
 #EXTINF:-1 tvg-logo="https://www.sntivi.id/wp-content/uploads/2016/01/SNTV-Logo.png" group-title="TV RELIGI",[TV] SNTV BACKUP
 http://wowza58.indostreamserver.com:1935/sntv/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",RODJA TV
+http://45.126.83.51:80/qwr9ew/s/s14/index2.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",INSAN TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",ASHIIL TV
+http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",SALAM TV
+http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",AL SAUDI QURAN
+http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",RIFQANTV
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",PULDAPII TV
+http://178.128.121.192/hlsmobile/web.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",NABAWI TV
+http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",AL SAUDI SUNNAH
+http://45.126.83.51:80/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1  tvg-logo="" group-title="TV RELIGI",
 ################################# TV RELIGI BACKUP #####################################
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="TV RELIGI BACKUP",TV Muhammadiyah
 https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah-avc1_2499968=9-mp4a_98800_ind=2.m3u8
@@ -282,9 +315,11 @@ http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/1zMwX7yK/ADZKHA2.jpg" group-title="TV RELIGI BACKUP",PULDAPIL
 http://178.128.121.192/hlsmobile/web.m3u8
 ################################# FILM BARAT #####################################
+#EXTINF:-1 tvg-logo="https://pusatfilm21.club/wp-content/uploads/2020/02/4MyNGRvjOWZD7oU0y8Dso1NrJR5-60x90.jpg" group-title="FILM BARAT",Bebas (2019)
+https://drive.google.com/open?id=17IC1Dt8ndGPPg3-CeDY2UCcFQYCiaTOe
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3zWGzB5/Pokemon.jpg" group-title="FILM BARAT",Pokemon : Detective Pikachu
 https://www.dropbox.com/s/tm3v0cjd5fyzigv/Pokemon.Detective.Pikachu.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 tvg-logo="http://s4.indexmovie.biz/wp-content/uploads/2016/07/film-prison-break-the-final-break-2009.jpg" group-title="FILM BARAT",The Final Break-Prison break
+#EXTINF:-1 tvg-logo="http://s4.indexmovie.biz/wp-content/uploads/2016/07/film-prison-break-the-final-break-2009.jpg" group-title="FILM BARAT",The Final Break-Prison break 
 https://www.trt.pl/film/83cf5k923a/Prison-Break-Skazany-na-smierc-S05E01-NAPISY-PL/360p.mp4
 #EXTINF:-1 tvg-logo="http://s4.indexmovie.biz/wp-content/uploads/2016/07/film-prison-break-the-final-break-2009.jpg" group-title="FILM BARAT",The Final Break-Prison break +
 http://www38.uptobox.com/dl/4gvzRApnVQTrBS7Aaq_31hHZzI8a2P3Ot_w8g5vZFD_jYNGqspYv3B_hNpJf3pAtUCLbGCZqdC6tQuTrTBcaCd2uLOqRKeblbxaa70Q8zFktupik2koWnBqvRaQlTCB-robEuqJgYEN2YGQVtllSLg/prison-break-final-break-2009-1080p.mp4
@@ -305,43 +340,49 @@ https://www104.zippyshare.com/d/pTnXqlSZ/132654/%5b480p%5dEscape.from.Pretoria.2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="FILM BARAT",SPENSER CONFIDENTIAL 2020
 https://www28.zippyshare.com/d/T3YjAiTq/20655/%5b480p%5dSpenser.Confidential.2020.NF.WEB-DL.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4e0Der73TmhAeA9grTo2Kkx0pAd.jpg" group-title="FILM BARAT",Enter the Fat Dragon (2020)
-https://www64.zippyshare.com/d/zk9G76u5/15805/%5b480p%5dEnter.the.Fat.Dragon.2020.HD.MELONGFILM.in.mp4
+https://www64.zippyshare.com/d/zk9G76u5/7816/%5b480p%5dEnter.the.Fat.Dragon.2020.HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzk5NzgtNGFkMS00NTIxLTk0MTItNzZlZTQ3NjEzNTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg group-title="FILM BARAT",The Invisible Man (2020)
-https://www65.zippyshare.com/d/BIEVbgYN/33633/%5b720p%5dThe.Invisible.Man.2020.WEB-HD.MELONGFILM.in.mp4
+https://www65.zippyshare.com/d/BIEVbgYN/13682/%5b720p%5dThe.Invisible.Man.2020.WEB-HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzk5NzgtNGFkMS00NTIxLTk0MTItNzZlZTQ3NjEzNTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg group-title="FILM BARAT",The Invisible Man (2020) BACKUP
-https://www56.zippyshare.com/d/dfMTruBf/21661/%5b480p%5dThe.Invisible.Man.2020.WEB-HD.MELONGFILM.in.mp4
+https://www56.zippyshare.com/d/dfMTruBf/51054/%5b480p%5dThe.Invisible.Man.2020.WEB-HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="FILM BARAT",Bloodshot (2020)
-https://www34.zippyshare.com/d/kxM68VE3/274628/%5b480p%5dBloodshot.2020.WEB-HD.MELONGFILM.in.mp4
+http://srv8.racaty.com:182/d/rufoftdx6xjz7x5iowkyh3sw2zrmm3iavn52b7plzsbx35qstzeqnrtogqtclsl7qjakwsjx/[480p]Bloodshot.2020.WEB-HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="FILM BARAT",Bloodshot (2020)BACKUP
-https://www34.zippyshare.com/d/kxM68VE3/25160/%5b480p%5dBloodshot.2020.WEB-HD.MELONGFILM.in.mp4
+https://www34.zippyshare.com/d/kxM68VE3/1235/%5b480p%5dBloodshot.2020.WEB-HD.MELONGFILM.in.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="FILM BARAT",Bad Boys for Life (2020)
+http://srv12.racaty.com:182/d/ryfp3nlx6xjz7x5inokyf7ip2yp4mg2wt46hbbftc3d5utgx34jt7elw5vt7x63hium42imo/[720p]Bad.Boys.for.Life.2020.HDRip.MELONGFILM.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mjzbquUm79vuZbMB4l402CvISlO.jpg" group-title="FILM BARAT",Disturbing the Peace (2020)
-https://www47.zippyshare.com/d/4UnqjN0U/16359/%5b480p%5dDisturbing.The.Peace.2020.WEBRip%20%e2%80%a2%20MELONGFILM.in.mp4
+https://www47.zippyshare.com/d/4UnqjN0U/26736/%5b480p%5dDisturbing.The.Peace.2020.WEBRip%20%e2%80%a2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mjzbquUm79vuZbMB4l402CvISlO.jpg" group-title="FILM BARAT",Disturbing the Peace (2020)BACKUP
 http://srv11.racaty.com:182/d/r4fnvitk6xjz7x5ikokydycxzk6j6dnodoaiu6pyktqfyjwrtt2dggaujqwgjxdhaddjlffm/%5B480p%5DDisturbing.The.Peace.2020.WEBRip%20%E2%80%A2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nIsdea2elL0xXTSM1cuV3G6DBF5.jpg" group-title="FILM BARAT",Two of Us (2020)
-https://www10.zippyshare.com/d/Ad25ZUTb/24196/%5b480p%5dDead%20Earth%202020%20WEB-DL%20%e2%80%a2%20MELONGFILM.in.mp4
+https://www10.zippyshare.com/d/Ad25ZUTb/36271/%5b480p%5dDead%20Earth%202020%20WEB-DL%20%e2%80%a2%20MELONGFILM.in.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nIsdea2elL0xXTSM1cuV3G6DBF5.jpg" group-title="FILM BARAT",Two of Us (2020)-BACKUP
+http://srv13.racaty.com:182/d/reficzlk6xjz7x5ikck4v3so3w2r3tefygwzjv4zino3yjtkqucrjqhxqe3hlwbyzmkxqd6i/[480p]Dead%20Earth%202020%20WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEyM2ZjNjUtOGRmNi00OWE5LTg3YmMtNTYzZjJkNzdkYzEyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,750,1000_AL_.jpg" group-title="FILM BARAT",Spy (2015)
-https://www45.zippyshare.com/d/rBrVXEfV/50324/%5b480p%5dSpy.2015.EXTENDED.BluRay.MELONGFILM.in.mp4
+https://www45.zippyshare.com/d/rBrVXEfV/37914/%5b480p%5dSpy.2015.EXTENDED.BluRay.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEyM2ZjNjUtOGRmNi00OWE5LTg3YmMtNTYzZjJkNzdkYzEyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,750,1000_AL_.jpg" group-title="FILM BARAT",Spy (2015)BACKUP
 http://srv14.racaty.com:182/d/rafaffdu6xjz7x5ip6kyp6223rogwnyx7z33utg7nvx2pq7p4cu7u63gtog6ze2jgpjvxbof/%5B480p%5DSpy.2015.EXTENDED.BluRay.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg" group-title="FILM BARAT",The Grudge (2020)
 http://srv4.racaty.com:182/d/qefgmrtu6xjz7x5ipsk4hoqnzlisjpmq2fmjh7euu7ewb26ak7z5wgwiusqzavwvhk5mmfzq/%5B720p%5DThe.Grudge.2020.BluRay.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/vN7JHlHOT9rHNDU27tfYqhABBj5.jpg" group-title="FILM BARAT",The Grudge (2020)BACKUP
-https://www19.zippyshare.com/d/IGQR6zP2/13656/%5b480p%5dThe.Grudge.2020.BluRay.MELONGFILM.in.mp4
+https://www19.zippyshare.com/d/IGQR6zP2/24206/%5b480p%5dThe.Grudge.2020.BluRay.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyNzhjZWYtMzIzOC00MmE3LWI0NWQtZTI0OGQyYjE5NzM5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILM BARAT",Sonic the Hedgehog (2020)
 http://srv12.racaty.com:182/d/ryfcxo3u6xjz7x5ipckzbo2s3yayo2yjy7ggpuptjp7yjamlgqy5b6cwgveyrljvchbvmyxj/%5B480p%5DSonic.the.Hedgehog.2020.WEB-DL.MELONGFILM.in.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWUyNzhjZWYtMzIzOC00MmE3LWI0NWQtZTI0OGQyYjE5NzM5XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg" group-title="FILM BARAT",Sonic the Hedgehog (2020) BACKUP
+https://www68.zippyshare.com/d/gfzZwSOi/6810/%5b480p%5dSonic.the.Hedgehog.2020.WEB-DL.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="http://199.231.164.17/wp-content/uploads/2020/03/rmflsMjk4lxx2foNUtd1OKWv6vB-60x90.jpg" group-title="FILM BARAT",The Hunt (2020)
-http://srv4.racaty.com:182/d/qefnvy3x6xjz7x5io6k4b5kjym7ryuwhpdtosqvotrl2vq3ggih3wc57nxp3tiu4jr4khiyr/%5BZenoMovie%5D_The.Hunt.2020.1080p.WEB-DL.mp4
+https://www7.zippyshare.com/d/cks8bIJa/14372/%5b480p%5dThe.Hunt.2020.WEB-HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/pdj1EK3ZTTroWOcH1BTE7fZwm1c.jpg" group-title="FILM BARAT",The Postcard Killings (2020)
-https://www16.zippyshare.com/d/ncN5smUu/34575/%5b480p%5dThe.Postcard.Killings.2020.WEB-DL.MELONGFILM.in.mp4
+https://s06.solidfilesusercontent.com/NGYyODFmYThlYjE0YmQ4OGEwN2ZjNGFlOWI3NDdiZDVlMjZiYTU0MToxaklrUDc6b1lWRDE2THVJem11WDIzWEctN0NrbzZNRURr/ZjZKN2XWdKd3v/%5Bfiles.cx%5D-%5B480p%5Dthe.postcard.killings.2020.web-dl.melongfilm.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNzEyYTU0ZTEtODY4YS00NzIxLWExYzQtOWM0MjBhODM1Mjk5XkEyXkFqcGdeQXVyNzA2OTMxMjA@._V1_SY1000_CR0,0,698,1000_AL_.jpg" group-title="FILM BARAT",Flu (2013)
-https://www52.zippyshare.com/d/NDqkqL3B/3536/%5b360p%5dFlu.2013.BluRay%20%e2%80%a2%20MELONGFILM.in.mp4
+https://www52.zippyshare.com/d/NDqkqL3B/9247/%5b360p%5dFlu.2013.BluRay%20%e2%80%a2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="http://199.231.164.17/wp-content/uploads/2019/08/Delicious-Sex-And-Femdom-60x90.jpg" group-title="FILM BARAT",Delicious Mother And Femdom (2019)
 http://proxy.nt1.co/proxy.php?data=m6qtlqakhWKrpG5OdZbjh7GjoptwlGrkhJZn17CEu1HcybKan5tniaLXhami16aQuI_W06WUlqF4i6vav6WesHJWgFioinhsam9fi5ynpWl_rJmSrli-h458n3eejWa0mmd6xGeKuGCnjnNjbWxqXmOkhm2dpHtbf1itlKZjY2dfiaOnp4mHwZdRmonLoK-JhqKhdYLVwneL3pJWonmui5djgXuQkJvLqXqPpJOMfYzOxImdjaCkmoHXi3WLpbGLqY6_s52JbGqQkI3Cp4iOmaqFhVerj3VnlpifV5eejWdxpKZHsZfWwYBobFyslajcuZh26qaDrJXe0KhZpZuqm5zcu6as336arZabx6twZqFfk6CniWNf4K9eu5GiyLOimG2nXa2Qw6Z24bmWbpDrl7BZoKyiY2OQxp92qXRHu4ay06imWaqtknDeyJSn5qqGtpebzbimlnOdmFnOyJyv2KqFhVS7n65rfISlmITJzmprqZlwv4fvspWqm4aSdp67z4Fp2meCuJOyzqiroJuxTKDTw5h26aqFrZKkx7NnWZqumHCdiWlpoXJWgUnhx7dwZGtvXGuijmpro3RWe1umjGmgp3NqW2ufiGxqqHJWbpblu7WUoKl2i6vav6WemHNkrYyajIaco1traZbae2V83KVGembezqSaWGh8maLfyJaemHNkuojmz6ylmKmsklicmaet32ZTi5bqzaZYZXmdmJzgu5ydmHNkqZPlf3V2oJ-mi1icmZeu5WZTi4_izmmmnJ12Z33app-F5rhzmWzcvXyAnXxvkYW8j3So53JpopytnbSBmGiNcpyyma2Qua-Er5LfwZuMa4uHmXazp3aH6JaFwFiljoyno52uh6Tjq4eTqHmXk4a9xImpiGqKeaC2vqV843abkJO2l4BZn6mph6XLw6Z24KlGembix2hldqOnS2Wtw6ZepYSOvkinnbCpnFtraaPWe2V85qRHtJbewYB0f6h6i5WrzYWgvKlil4viyKiWqYaCe2WrnGqK7HV4kWvAjqybm4WlkoWXj5iot6yFv3qqsaikZHeia3SfiZ2mwHdqn3zizZlqo2-nm5jcnmRtx6laj5DIknZ4aqOikGnEt5l6yquEhQ&key=zjuNTxFjdqA&itag=59&filename=JURAGANFILM.LIVE%20-%20Delicious%20Sex%20and%20Femdom%20(2019).mp4
 ################################# MUSIC KARAOKE #####################################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yt0NPWP/images.png" group-title="Youtube", Youtube
 https://www.youtube.com/watch?v=YCfs3R3iip0&feature=youtu.be.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJw0CY4IQGgprkceR4raHfIVQeZ4trC3MFIqzA=s48-c-k-c0xffffffff-no-rj-mo" group-title="MUSIC KARAOKE",GMusic Entertainment-ILIR 7 - Salah Apa Aku
 https://www.youtu.be/R7dnsDoKA9Y
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LmdSbtMGw3k/hqdefault.jpg?" group-title="MUSIC KARAOKE",Cassandra - Cinta Terbaik Karaoke With Lyrics HD
@@ -367,7 +408,8 @@ http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDQB1lb.png" group-title="MALAYSIA",RTM Parlimen (BACKUP)
 http://parlimennegaramobile.secureswiftcontent.com/Origin04/ngrp:RTM4/chunklist_b3696000.m3u8
- 
+#EXTINF:1 group-title="VOD MALAY",Hantu ustazah supiah
+http://23.237.118.58:23415/54ca5de7/playlist.m3u8?key=8f0b5413ab3cedfcce12692c84838dae
 ################################# Lagu #####################################
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hFIJhOq4pHo/hqdefault.jpg" group-title="Lagu",[+ Lirik]Kumpulan Cover Lagu INDONESIA Bisa Menemani Kerja Dan Bersantai || Mp3 Lirik
 https://youtu.be/hFIJhOq4pHo
@@ -377,7 +419,7 @@ https://www.youtube.com/watch?v=cKS_GYhQPbo
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3QWTwKjkbSHRQQqOphfmPOFMBom-wGNDHb_5MaLWH8CcYioDc" group-title="MUSIC KITA",GMusic Entertainment-Yok ke Pangandaran
 https://www.youtube.com/watch?player=cKS_GYhQPbo
 ################################# TEST #####################################
- 
+
 ################################# RADIO INDONESIA #####################################
 #EXTM3U
 #EXTINF:-1 group-title="Radio Indonesia", Music Nonstop
@@ -390,7 +432,7 @@ http://listento.ardanradio.com:1059/;
 http://stream.radbdg.net:8000/globalradiobandung.mp3
 #EXTINF:-1 group-title="Radio Indonesia", 88.3 Duta Swara FM Dander Bojonegoro
 http://dutaswarafm.onlivestreaming.net:9292/listen.pls?sid=1
-#EXTINF:-1 group-title="Radio Indonesia", 95.0 FM Istana Radio Bojonegoro (Winamp)
+#EXTINF:-1 group-title="Radio Indonesia", 95.0 FM Istana Radio Bojonegoro (Winamp) 
 http://199.15.251.137:8000/istana.m3u
 #EXTINF:-1 group-title="Radio Indonesia", 95.0 FM Istana Radio Bojonegoro (Backup Winamp)  
 https://radioistanabojonegoro.co.id
@@ -413,7 +455,7 @@ https://www199.o0-1.com/token=Yw98yGtp9SC7B7LxQSJaOA/1585265951/180.248.0.0/117/
 #EXTINF:-1 tvg-logo="http://s3.indexmovie.biz/wp-content/uploads/2020/02/film-bad-boys-for-life-2020-lk21.jpg" group-title="FILM BARAT",BAD BOYS FOR LIFE (2020) BACKUP
 https://www955.o0-2.com/token=f2fD9_JvDn4nOqPIMzNoJg/1585265316/180.248.0.0/93/e/d9/4d2f11802879cc28ab5e7d3626255d9e-480p.mp4
 #EXTINF:-1 tvg-logo="" group-title="FILM BARAT",ENTER THE FAT DRAGON (FEI LUNG GWOH GONG) (2020) BACKUP
-https://www320.o0-1.com/token=dqQS_B9mYNxRmnAZOqhThA/1585264850/180.248.0.0/74/f/84/9eed7e9169448faa9328a6cde880b84f-480p.mp4
+http://srv4.racaty.com:182/d/qefbxs3v6xjz7x5ij6kyn52q2n7nlcnpqhewk5uquri4j3y2x7q6q5qimqrudoi6vc2dzusv/[480p]Enter.the.Fat.Dragon.2020.HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="http://s4.indexmovie.biz/wp-content/uploads/2020/02/film-mr-zoo-the-missing-vip-2020-lk21.jpg" group-title="FILM BARAT",MR. ZOO: THE MISSING VIP (2020) BACKUP
 https://www248.o0-1.com/token=D4p0QVr7odQSBilJB9beRw/1585263308/180.248.0.0/75/3/3d/4b406b0f535a483e2ff52d7d128033d3-720p.mp4
 #EXTINF:-1 tvg-logo="http://s4.indexmovie.biz/wp-content/uploads/2018/05/film-the-kissing-booth-2018.jpg" group-title="FILM BARAT",THE KISSING BOOTH (2018) BACKUP
@@ -426,3 +468,9 @@ http://stream2.ninmedia.tv/tawaftv/rtmp.stream_360p/chunklist_w720255703.m3u8
 https://www.djing.com/tv/karaoke.m3u8
 #EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="" group-title="TV test",AST TV 1
 http://www.ast.tv/stream/1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title'="FILM BLUE",Dont Know
+https://vid-egc.xnxx-cdn.com/videos/mp4/c/1/5/xvideos.com_c15397e72f8c9fd04ce22b63bde78a2a.mp4?1qrCnXkUP3b8pEj1RWAYrfObkGX4ZlfmEHuCc3ZqYHAajQNhdH233Alx4eWecY9KXqG4Rqe9PvywFSy7BagFnqG9X9Zpfwva440F4MY-sNy8yYF57hYQy_FViTMMOKTAfL2Mz8qHyUhNaugs1Xyb2aA9L3GnPGC6z3U2zjcyq3Z1WkWYkagh0Ru8l6kiCOhu_8a7U1fb7aU
+#EXTINF:-1 tvg-logo="" group-title="FILM BLUE",Japanese Mom Mischievous Pant
+https://vid2-l3.xnxx-cdn.com/videos/mp4/0/1/2/xvideos.com_01248fdcd18514576a634b7462e3b23b.mp4?e=1554361523&ri=1024&rs=85&h=99037a111c36c7242e78f3560cdfc89d
+#EXTINF:-1 tvg-logo="" group-title="FILM BLUE",Tutta Una Vita
+https://vid1-l3.xnxx-cdn.com/videos/mp4/f/4/6/xvideos.com_f46317f8439db65e5552ffb6dbc33ad4.mp4?e=1585421160&ri=1024&rs=85&h=91822f93aaa44400821ba8f283a40f6e
