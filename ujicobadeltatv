@@ -132,9 +132,13 @@ rtmp://103.23.201.170/live//livestream
 #EXTINF:-1 ,(ID) TATV SOLO
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 ################################# TV Ninmedia #####################################
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",KITANESIA
+http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Ninmedia",(ID) MALEO CHANNEL
 http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
-#EXTINF:-1 group-title="TV Ninmedia",(ID) MALEO CHANNEL (BACKUP)
+#EXTINF:-1 group-title="TV Ninmedia",(ID) MALEO CHANNEL BACKUP
+http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="TV Ninmedia",(ID) MALEO CHANNEL (BACKUP)2
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="TV Ninmedia",(ID) KLIK MUSIK
 http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
@@ -161,6 +165,10 @@ http://stream1.ninmedia.tv/kitanesia/udp.stream_360p/playlist.m3u8
 http://stream1.ninmedia.tv/maleo/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",INSPIRA TV
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="TV Ninmedia BACKUP",INSPIRA TV BACKUP
+http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="TV Ninmedia BACKUP"RAHA TV
+http://stream1.ninmedia.tv/rahatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",RAHATV
 http://stream1.ninmedia.tv/rahatv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="TV Ninmedia BACKUP",BMW TV
@@ -342,7 +350,7 @@ https://www104.zippyshare.com/d/pTnXqlSZ/132654/%5b480p%5dEscape.from.Pretoria.2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg" group-title="FILM BARAT",SPENSER CONFIDENTIAL 2020
 https://www28.zippyshare.com/d/T3YjAiTq/20655/%5b480p%5dSpenser.Confidential.2020.NF.WEB-DL.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4e0Der73TmhAeA9grTo2Kkx0pAd.jpg" group-title="FILM BARAT",Enter the Fat Dragon (2020)
-https://www64.zippyshare.com/d/zk9G76u5/27810/%5b480p%5dEnter.the.Fat.Dragon.2020.HD.MELONGFILM.in.mp4
+https://www64.zippyshare.com/d/zk9G76u5/51791/%5b480p%5dEnter.the.Fat.Dragon.2020.HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzk5NzgtNGFkMS00NTIxLTk0MTItNzZlZTQ3NjEzNTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg group-title="FILM BARAT",The Invisible Man (2020)
 https://www65.zippyshare.com/d/BIEVbgYN/13682/%5b720p%5dThe.Invisible.Man.2020.WEB-HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDkwMzk5NzgtNGFkMS00NTIxLTk0MTItNzZlZTQ3NjEzNTU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg group-title="FILM BARAT",The Invisible Man (2020) BACKUP
@@ -352,15 +360,15 @@ http://srv8.racaty.com:182/d/rufoftdx6xjz7x5iowkyh3sw2zrmm3iavn52b7plzsbx35qstze
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg" group-title="FILM BARAT",Bloodshot (2020)BACKUP
 https://www34.zippyshare.com/d/kxM68VE3/1235/%5b480p%5dBloodshot.2020.WEB-HD.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="FILM BARAT",Bad Boys for Life (2020)
-http://srv12.racaty.com:182/d/ryfp3nlx6xjz7x5inokyf7ip2yp4mg2wt46hbbftc3d5utgx34jt7elw5vt7x63hium42imo/[720p]Bad.Boys.for.Life.2020.HDRip.MELONGFILM.mp4
+http://srv8.racaty.com:182/d/rufbnnlx6xjz7x5inok4fz2rrscq6xdky4micdpsn5e5mmbumvdoacuce35jiajrp6wlrrok/%5B480p%5DBad.Boys.for.Life.2020.HDRip.MELONGFILM.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mjzbquUm79vuZbMB4l402CvISlO.jpg" group-title="FILM BARAT",Disturbing the Peace (2020)
-https://www47.zippyshare.com/d/4UnqjN0U/26736/%5b480p%5dDisturbing.The.Peace.2020.WEBRip%20%e2%80%a2%20MELONGFILM.in.mp4
+https://www47.zippyshare.com/d/4UnqjN0U/30212/%5b480p%5dDisturbing.The.Peace.2020.WEBRip%20%e2%80%a2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/mjzbquUm79vuZbMB4l402CvISlO.jpg" group-title="FILM BARAT",Disturbing the Peace (2020)BACKUP
 http://srv11.racaty.com:182/d/r4fnvitk6xjz7x5ikokydycxzk6j6dnodoaiu6pyktqfyjwrtt2dggaujqwgjxdhaddjlffm/%5B480p%5DDisturbing.The.Peace.2020.WEBRip%20%E2%80%A2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nIsdea2elL0xXTSM1cuV3G6DBF5.jpg" group-title="FILM BARAT",Two of Us (2020)
-https://www10.zippyshare.com/d/Ad25ZUTb/36271/%5b480p%5dDead%20Earth%202020%20WEB-DL%20%e2%80%a2%20MELONGFILM.in.mp4
+https://www10.zippyshare.com/d/Ad25ZUTb/48786/%5b480p%5dDead%20Earth%202020%20WEB-DL%20%e2%80%a2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/nIsdea2elL0xXTSM1cuV3G6DBF5.jpg" group-title="FILM BARAT",Two of Us (2020)-BACKUP
-http://srv13.racaty.com:182/d/reficzlk6xjz7x5ikck4v3so3w2r3tefygwzjv4zino3yjtkqucrjqhxqe3hlwbyzmkxqd6i/[480p]Dead%20Earth%202020%20WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
+http://srv13.racaty.com:182/d/reficzlk6xjz7x5ikck4v3so3w2r3tefygwzjv4zino7za2yty3ywipnwrq4efzq6bzwurrm/%5B480p%5DDead%20Earth%202020%20WEB-DL%20%E2%80%A2%20MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEyM2ZjNjUtOGRmNi00OWE5LTg3YmMtNTYzZjJkNzdkYzEyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,750,1000_AL_.jpg" group-title="FILM BARAT",Spy (2015)
 https://www45.zippyshare.com/d/rBrVXEfV/37914/%5b480p%5dSpy.2015.EXTENDED.BluRay.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZjEyM2ZjNjUtOGRmNi00OWE5LTg3YmMtNTYzZjJkNzdkYzEyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,750,1000_AL_.jpg" group-title="FILM BARAT",Spy (2015)BACKUP
