@@ -2,6 +2,8 @@
 ################################# INFO OWNER #####################################
 #EXTINF:-1 group-title="INFO OWNER",(ID) INFO FREESAT 
 http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
+#EXTINF:-1 group-title="INFO OWNER",(ID) INFO IPTV
+http://restream.geniptv.com:8080/cciptv.multimedia_new/BNMklkKJ123/15179
 ################################# TV NASIONAL #####################################
 #EXTINF:-1 group-title="TV NASIONAL", TV ONE
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
