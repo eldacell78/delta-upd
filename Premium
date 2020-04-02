@@ -19,7 +19,7 @@ http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/aditv.png" group-title="TV Daerah",ADiTV Yogyakarta
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda
-http://122.248.43.138:1935/ch20/myStream/live.m3u8
+http://122.248.43.138:1935/ch01/myStream/live.m3u8
 ############################Religious##########################
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxmSn6F6/makkah4y.png" group-title="Religious",Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
