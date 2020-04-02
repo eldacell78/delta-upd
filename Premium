@@ -1,4 +1,57 @@
 extm3u
+############################TV Daerah##########################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4dY5LVGQ/DUTA.png" group-title="TV Daerah",DUTA TV
+https://video2.onlivestreaming.net/dutatelevisi/liveabr/dutatelevisi/livestream/chunks.m3u8?nimblesessionid=18193804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/kawanuatv.png" group-title="TV Daerah",Kawanua TV Manado
+http://122.248.43.138:1935/ch18/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/bmstv.png" group-title="TV Daerah",BMSTV Purwokerto
+http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/bayutv.png" group-title="TV Daerah",BayuTV Nganjuk
+http://wms.klikhost.com/bayutv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/ruaitv.png" group-title="TV Daerah",RuaiTV Pontianak
+http://wowza58.indostreamserver.com:1935/ruaitv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/pontv.png" group-title="TV Daerah",Pontianak TV
+http://122.248.43.138:1935/ch15/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/sbotv.png" group-title="TV Daerah",SBO TV Surabaya
+http://122.248.43.138:1935/ch13/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/btv.png" group-title="TV Daerah",BTV Balikpapan
+http://122.248.43.138:1935/ch10/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/aditv.png" group-title="TV Daerah",ADiTV Yogyakarta
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda
+http://122.248.43.138:1935/ch19/myStream/live.m3u8
+############################Religious##########################
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxmSn6F6/makkah4y.png" group-title="Religious",Makkah TV
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/6p9B3NNv/madinah4.png" group-title="Religious",Madinah TV
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/RV1M4Z2m/muslim4.png" group-title="Religious",Muslim TV
+3https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/SNbyBMTV/tawafy.png" group-title="Religious",Tawaf TV
+#https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/WpkNYnnh/wesal4.png" group-title="Religious",Wesal TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnXTJYxQ/insan4.png" group-title="Religious",Insan TV
+#http://wz.insantv.net/group/ngrp:insantv_all/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fbqzpqp0/ahsan4.png" group-title="Religious",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH5mTzgp/aliman4.png" group-title="Religious",Al-Iman TV
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P54rz5My/rodja4.png" group-title="Religious",Rodja TV
+http://rr2.dens.tv/s/s14/index1.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/5jdDD8fz/ashil4.png" group-title="Religious",Ashiil TV
+#http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/1RnXhP9R/tvm4.png" group-title="Religious",TVMU
+#https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2zwTSwV/tv94.png" group-title="Religious",TV9
+#https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1ZhgHpr/life4.png" group-title="Religious",LIFE
+#https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HWM2WrHV/ewtn4y.png" group-title="Religious",EWTN
+#https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5h5ww1N/refor214.png" group-title="Religious",Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 6
 #https://d1.uptocloud.co:182/d/5/8cstxc8czwce0j/TOP%2012%20November%202018.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FF8dtdy6/top.jpg" group-title="TOP",TUKANG OJEK PENGKOLAN 5
@@ -662,6 +715,8 @@ https://lh3.googleusercontent.com/YdzjEGGEit92wWE614iznWfxU7PdCX17BqmV4Ly39hfnxI
 https://d1.uptocloud.co:182/d/4/0hebc78t3wujgl/[720p]Gu%20Jian%20Qi%20Tan%20Zhi%20Fu%20Mo%20Ji.2020.WEBrip.MELONGFILM.in.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvwX3N8n/BENTO.jpg" group-title="MOVIE BARAT",Bento Harassment (2019)
 https://d1.uptocloud.co:182/d/6/ueovm9s2yy9fy0/[720p]Bento.Harassment.2019.BluRay.MELONGFILM.in.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/4e0Der73TmhAeA9grTo2Kkx0pAd.jpg" group-title="MOVIE BARAT",Enter the Fat Dragon (2020)
+http://srv4.racaty.com:182/d/qefbxs3v6xjz7x5ij6kyn52q2n7nlcnpqhewk5uquriq3ny5amabkyz76a272q5kdb46cl4l/%5B480p%5DEnter.the.Fat.Dragon.2020.HD.MELONGFILM.in.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0nvj2Q9/dq.jpg" group-title="MOVIE BARAT",DRAGON QUEST : YOUR STORY (2019)
 https://d1.uptocloud.co:182/d/8/pmyre8tq086et4/[720p]Dragon.Quest.Your.Story.2019.NF.WEB-DL%20[MELONGFILM.in].mp4
@@ -780,7 +835,14 @@ https://d1.uptocloud.co:182/d/1/dwixd266ko5jcw/Troop.Zero.2020.AMZN.WEB-DL%20%E2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8ztCt9v8/ini.jpg" group-title="MOVIE BARAT",INITIAL D (2005)
 https://r4---sn-npoe7ner.googlevideo.com/videoplayback?expire=1581867963&ei=m0dJXsbSI9K71AafwZuYCA&ip=2400:6180:0:d1::69c:f001&id=4b12cfec0ff5d626&itag=37&source=picasa&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6532.771&lmt=1581784918577239&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAKbGpfnzGvtJc0S4kqd2cJn-XSjkkYXUYViC6ktut5W7AiEAl2cECy7FZYWiXnpED5Gd6qGcXWb-hf933Yc9UM62hHs=&redirect_counter=1&rm=sn-npozl7z&fexp=23872989&req_id=6d205631dc7f36e2&cms_redirect=yes&ipbypass=yes&mip=180.249.203.235&mm=30&mn=sn-npoe7ner&ms=nxu&mt=1581860744&mv=m&mvi=3&pl=24&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhALRNnvrFHiftsvy_kqYvgG6GeiIcFZX7JLl0rPQPEwY9AiEAn8YEGf4O74FNyQRPQi3q05dYpl0ImtN_zQzUGq8WCBg%3D
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jPMnZwQAREcmoAf3r8JQHVpoZid.jpg" group-title="MOVIE BARAT",The Lockdown: One Month in Wuhan (2020)
+http://srv13.racaty.com:182/d/refk22dx6xjz7x5inck4v5k6qjwrtex3l4nveer5yn74nb2as4p7de3rxjqazqpmscvwlwi6/%5B480p%5DLockdown%20%E2%80%A2%20Satu%20Bulan%20di%20Wuhan%202020%20HDTV.mp4
 
+#####INDIA####################
+#EXTINF:-1 tvg-logo="http://s2.indexmovie.biz/wp-content/uploads/2018/04/film-secret-superstar-2017.jpg" group-title="MOVIE INDIA", Secret Superstar (2017)
+https://fvs.io/redirector?token=NnBJMnVRK01mM0REUmVqRjc1WFRocjI3TG5JOXh4bEJteEFsL0w4MlFZRTlpNTBNY0F3WUFVL0g0NHFHZSsvNHBvWlJjYlY0aXlKcWVpbld6WHM5QTYxZmVsM3RSN2l2R3orVVNCTW9OeldXdjgyZEpCUzdsUlZrcWpmZzd1MWdZc3RXU2c1MG9aQTdSSllvbE9lbGhuMm1EbEVkdWQ3ZUdudz06elpFb2xuM1M1NEFDVVNINlAwcTkrZz09
+#EXTINF:-1 tvg-logo="http://s2.indexmovie.biz/wp-content/uploads/2018/04/film-secret-superstar-2017.jpg" group-title="MOVIE INDIA", Secret Superstar (2017) BACKUP
+http://www49.uptobox.com/dl/qeWf8Wmdy1kHn2yF3S-pdYTQViMYvbNDHi5TLtxBbsbmP5SyA4ZIj1AU2ISvZ6FZXlycfWFSSQyEWLVZPIjrDsge_t0bmIyz-22fwlf12bEMq5kX73EV2XRCimZAv6YwXf-fUdcpIA0cxZsLWAxpCQ/secret-superstar-2017-1080p.mp4
 
 <|-- VOD Thailand
 ================================================================================================================================
