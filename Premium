@@ -19,7 +19,7 @@ http://122.248.43.138:1935/ch10/myStream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/aditv.png" group-title="TV Daerah",ADiTV Yogyakarta
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda
-http://122.248.43.138:1935/ch19/myStream/live.m3u8
+http://122.248.43.138:1935/ch20/myStream/live.m3u8
 ############################Religious##########################
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxmSn6F6/makkah4y.png" group-title="Religious",Makkah TV
 http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
@@ -31,8 +31,18 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 #https://liveanevia.mncnow.id/live/eds/TawafTV/sa_hls/TawafTV.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/WpkNYnnh/wesal4.png" group-title="Religious",Wesal TV
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnXTJYxQ/insan4.png" group-title="Religious",Insan TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HnXTJYxQ/insan4.png" group-title="Religious",Insan TV
 #http://wz.insantv.net/group/ngrp:insantv_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HnXTJYxQ/insan4.png" group-title="Religious",INSAN TV BACKUP
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+#EXTINF:-1 group-title="Religious",AHYAR TV
+http://stream.asianastream.com:1935/live/ngrp:akhyartv_all/chunklist.m3u8
+#EXTINF:-1 group-title="Religious",TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+#EXTINF:-1 group-title="Religious",CAHAYA BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fbqzpqp0/ahsan4.png" group-title="Religious",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH5mTzgp/aliman4.png" group-title="Religious",Al-Iman TV
@@ -633,6 +643,8 @@ https://iptvhit.live/tanjungselamat/alasi/panga/272
 https://iptvhit.live/tanjungselamat/alasi/panga/273
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/htjJRM55/emmaa.jpg" group-title="MOVIE BARAT", EMMA (2020) ips
 https://iptvhit.live/tanjungselamat/alasi/panga/274
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vkd5CF9D/pokemon.jpg" group-title="MOVIE BARAT",POKEMON (2019)
+https://d1.uptocloud.co:182/d/6/6yermdf253d4uc/[720p]Melongfilm-Pokemon-Movie-22-2019-BluRay.mp4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bY9L4j1J/theboy1.jpg" group-title="MOVIE BARAT", THE BOY (2019)
 https://www.googleapis.com/drive/v3/files/1_si-QletdmoP4Y7kWJIw_Jz8s9wEdaUh?alt=media&key=AIzaSyCzu2eH-IaKbcbytwjycKJx-RQZSqXe_XQ
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnHcNrJ3/boys2.jpg" group-title="MOVIE BARAT", THE BOY 2 (2020) VPN
