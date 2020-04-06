@@ -20,8 +20,10 @@ http://122.248.43.138:1935/ch10/myStream/live.m3u8
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda
 http://122.248.43.138:1935/ch01/myStream/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5Nt2GGS9/shopee4.png" group-title="TV Daerah",Tepian Tv Samarinda
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/8/88/20151126220725%21TepianTV_logo.png" group-title="TV Daerah",Tepian Tv Samarinda
 https://twitch.tv/tepiantv
+#EXTINF:-1 tvg-logo="https://tepiantv.files.wordpress.com/2016/06/logo-tepian-tv1.gif" group-title="TV Daerah",Tepian Tv Samarinda BACKUP
+https://m.twitch.tv/tepiantv
 
 ############################Religious##########################
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/CxmSn6F6/makkah4y.png" group-title="Religious",Makkah TV
