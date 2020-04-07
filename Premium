@@ -48,6 +48,9 @@ http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
 #EXTINF:-1 group-title="Religious",CAHAYA BANTEN
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/tgkKkQNb/Vidio.png" group-title="Religious",Daaitv
+https://m.vidio.com/live/6482-daai-tv
+
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fbqzpqp0/ahsan4.png" group-title="Religious",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vH5mTzgp/aliman4.png" group-title="Religious",Al-Iman TV
@@ -1232,4 +1235,28 @@ https://www.googleapis.com/drive/v3/files/1zlrZN1d5hQ69AxMWsqh6Tu3EjRyVAxwl?alt=
 ########UPIN IPIN################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXzpBw5B/keris-siamang-tunggal.jpg" group-title="UPIN IPIN",Kris Siamang Tunggal
 https://video.fsub8-1.fna.fbcdn.net/v/t39.24130-2/10000000_472054756773940_6572890734099874254_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_oc=AQnzi5Darj69U7rRD6O2Af_DEhULydj9BXPJK3inXmRW2WTJk5iSzbZ7clgZVkGaLho&_nc_ht=video.fsub8-1.fna&oh=af4dd576448e3e78a1ec3a5cf3820836&oe=5EC846E8
+########Radio################
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/rodja.png" group-title="Radio",Radio Rodja 756 AM
+https://radioislamindonesia.com:7000/;stream.mp3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/rodja.png" group-title="Radio",Radio Rodja 756 AM BACKUP
+http://live2.radiorodja.com/;stream.mp3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="Radio",Radio Islam Samarinda
+http://samarinda.radioislam.my.id:9444/stream?type=http&nocache=19
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/pramborsfm.png" group-title="Radio",Prambors FM Surabaya
+http://masima.rastream.com/masima-pramborssurabaya?
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="/logos/tivi/nagaswarafm.png" group-title="Radio",Nagaswara FM Bogor
+http://bogor.nagaswarafm.com:8088/stream
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/3x1tmbGf/tv14.png" group-title="Malaysia",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+#http://rtm1hdmobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/vmSXSg3W/tv24.png" group-title="Malaysia",TV2
+
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+
+
+#https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+#https://rtm5hdmobile.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b1064000.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HLLB244Y/tv34.png" group-title="Malaysia",TV3
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdnOHLh1t91ne-HuQ510Gy0)/dm/3/x6qp375/d/live-3.m3u8#%7CReferer=https://www.dailymotion.com
+#http://190.2.155.140:8278/TV3/playlist.m3u8
