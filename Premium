@@ -20,6 +20,8 @@ http://122.248.43.138:1935/ch10/myStream/live.m3u8
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda
 http://122.248.43.138:1935/ch01/myStream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/stv.png" group-title="TV Daerah",STV Samarinda BACKUP
+http://122.248.32.234:1935/ch19/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/8/88/20151126220725%21TepianTV_logo.png" group-title="TV Daerah",Tepian Tv Samarinda
 https://twitch.tv/tepiantv
 #EXTINF:-1 tvg-logo="https://tepiantv.files.wordpress.com/2016/06/logo-tepian-tv1.gif" group-title="TV Daerah",Tepian Tv Samarinda BACKUP
@@ -63,10 +65,16 @@ http://rr2.dens.tv/s/s14/index1.m3u8
 #https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/T2zwTSwV/tv94.png" group-title="Religious",TV9
 #https://liveanevia.mncnow.id/live/eds/TV9/sa_hls/TV9.m3u8
+#EXTINF:-1, tvg-logo="https://i.postimg.cc/T2zwTSwV/tv94.png" group-title="Religious",TV9 BACKUP
+http://videostream.indostreamserver.com:1935/tv9/live/chunklist_w1646081470.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/C1ZhgHpr/life4.png" group-title="Religious",LIFE
 #https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/HWM2WrHV/ewtn4y.png" group-title="Religious",EWTN
 #https://liveanevia.mncnow.id/live/eds/EWTN/sa_hls/EWTN.m3u8
+#EXTINF:-1, group-title="Religious",NADA MUSLIM TV
+http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="Religious",SALINGSAPA
+http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/P5h5ww1N/refor214.png" group-title="Religious",Reformed 21
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
 ############################UseeTV##########################
@@ -971,6 +979,8 @@ https://r4---sn-npoe7ner.googlevideo.com/videoplayback?expire=1581867963&ei=m0dJ
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jPMnZwQAREcmoAf3r8JQHVpoZid.jpg" group-title="MOVIE BARAT",The Lockdown: One Month in Wuhan (2020)
 http://srv13.racaty.com:182/d/refk22dx6xjz7x5inck4v5k6qjwrtex3l4nveer5yn74nb2as4p7de3rxjqazqpmscvwlwi6/%5B480p%5DLockdown%20%E2%80%A2%20Satu%20Bulan%20di%20Wuhan%202020%20HDTV.mp4
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Ss0XqzMV/bumblebee.jpg" group-title="MOVIE BARAT",Bumblebee
+https://d1.uptocloud.co:182/d/7/o68fsyjfspza7z/[720p]Bumblebee.2018.BluRay%20[MELONGFILM.in].mp4
 #####INDIA####################
 #EXTINF:-1 tvg-logo="http://s2.indexmovie.biz/wp-content/uploads/2018/04/film-secret-superstar-2017.jpg" group-title="MOVIE INDIA", Secret Superstar (2017)
 https://www575.o0-2.com/token=j9H586fvvEhHK48iTkp0mw/1585912755/125.160.0.0/91/2/b5/c778dde40aff59f3bcf034c863469b52-480p.mp4
