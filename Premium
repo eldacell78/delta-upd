@@ -2,6 +2,8 @@ extm3u
 ############################TV Daerah##########################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/4dY5LVGQ/DUTA.png" group-title="TV Daerah",DUTA TV
 https://video2.onlivestreaming.net/dutatelevisi/liveabr/dutatelevisi/livestream/chunks.m3u8?nimblesessionid=18193804
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MGMmvYGP/fruit-1222488-1280.png" group-title="TV LOKAL",PRIMA TV BANJARMASIN
+http://primatv.onlivestreaming.net/primatv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/kawanuatv.png" group-title="TV Daerah",Kawanua TV Manado
 http://122.248.43.138:1935/ch18/myStream/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/leggosy/tiivii/bmstv.png" group-title="TV Daerah",BMSTV Purwokerto
