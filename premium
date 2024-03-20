@@ -1,0 +1,155 @@
+#EXTM3U
+
+===RADIO STREAM=====
+#EXTINF:-1 tvg-logo="https://klikhost.com/lunaplayer/klikhost/logo.png" group-title="RADIO STREAM",RADIO Music (KHOST)
+https://klikhost.com/lunaplayer/klikhost
+#EXTINF:-1 tvg-logo="https://klikhost.com/lunaplayer/klikhost/logo.png" group-title="RADIO STREAM", RADIO MUSik KLIK HOST (KHOST)
+https://pu.klikhost.com/proxy/klikhost/stream
+#EXTINF:-1 tvg-logo="https://suaramahakam.com/wp-content/uploads/2019/08/logo-suara-mahakam.png" group-title="RADIO STREAM",SUARA MAHAKAM (KHOST)
+https://i.klikhost.com/8010/stream
+#EXTINF:-1 tvg-logo="https://radiopensiunan.com/wp-content/uploads/2023/04/LOGO-RADIO-PENSIUNAN2-300x223.png" group-title="RADIO STREAM",RADIO PENSIUNAN (KHOST)
+https://pu.klikhost.com/proxy/radiopensiunan/stream
+#EXTINF:-1 tvg-logo="https://dc4fm.com/images/artists/default.png" group-title="RADIO STREAM", RADIO DC4FM Live Jayapura (KHOST)
+https://dc4fm.com/playlist.php?name=listen.m3u
+
+#EXTINF:-1 tvg-logo="http://www.dutaswarafm.com/img/photo/logo/10.jpg" group-title="RADIO STREAM", RADIO DUTA SWARA (RDS) FM DANDER
+http://dutaswarafm.onlivestreaming.net:9292/listen.pls?sid=188.4
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2012/10/dengerin-musik-indonesia-220x108.jpg" group-title="RADIO STREAM", RADIO DENGERIN MUSIK INDONESIA (DMI) FM 
+https://radione.top:8888/dmi
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/indosound.png" group-title="RADIO STREAM",RADIO IndoSound Netradio
+http://91.121.164.210:8556/stream
+#EXTINF:-1 tvg-logo="https://kumalaradionetwork.com/images/logo/logo%20Kumala.png" group-title="RADIO STREAM",RADIO KUMALA FM SMD
+https://ina.vinhostmedia.com:8000/kumalaradio
+
+===TV STREAM====
+#EXTINF:-1 tvg-logo="https://ia802900.us.archive.org/19/items/Big_Buck_Bunny-13302/Big_Buck_Bunny-13302.jpg?cnt=0" group-title="TV STREAM",MOVIE big buck bunny (KHOST)
+https://wms.klikhost.net/autodjtv/autodjtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://salira.co/wp-content/uploads/2022/12/logo-salira-tv.png" group-title="TV STREAM",SALIRA TV (KHOST)
+#JABAR
+https://5bf7b725107e5.streamlock.net//saliratv//saliratv//playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mqtv.co.id/wp-content/uploads/2021/04/Logo_MQTV_Original-1024x258.png" group-title="TV STREAM",MQTV (KHOST)
+#BANDUNG-JABAR
+https://wms.klikhost.com:2000/VideoPlayer/mqtv?autoplay=0/stream
+
+===PENGETAHUAN====
+#EXTINF:-1 tvg-id="Xplore.us" tvg-name="XPLORE" tvg-logo="https://i.postimg.cc/8zdMbZjz/20230524-164412.png" group-title="Pengetahuan",Xplore HD
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Insight.au" tvg-name="Insight" tvg-logo="https://i.postimg.cc/DZpqXmmQ/20230524-164617.png" group-title="Pengetahuan", Insight TV
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.au" tvg-name="Inwonder" tvg-logo="https://i.postimg.cc/L8Fjfc4W/20230524-164437.png" group-title="Pengetahuan",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+===LOKAL TV Indonesia====
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/CNN_Indonesia_logo.svg/200px-CNN_Indonesia_logo.svg.png" group-title="LOKAL TV Indonesia",CNN Indonesia
+http://live.cnnIndonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="LOKAL TV Indonesia",JTV Surabaya
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="LOKAL TV Indonesia", Trans 7
+http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+===LOKAL TV HD====
+#EXTINF:0, group-title="LOKAL TV HD",TRANS 7 HD
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:0, group-title="LOKAL TV HD",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
+
+===LOKAL TV DAERAH====
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ7qFprs/20230228-172117.png" group-title="TV Daerah",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MpTrfnzg/20221117-135720.png" group-title="TV Daerah",Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0294xtFk/20221117-135633.png" group-title="TV Daerah",Jaya TV
+https://h1.intechmedia.net/intech/ch52.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8cmnMWJg/20221117-135612.png" group-title="TV Daerah",BETV Bengkulu
+https://h1.intechmedia.net/intech/ch58.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVGD07xc/20221117-135558.png" group-title="TV Daerah",RA TV
+https://h1.intechmedia.net/intech/ch59.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsWZb8GY/20221117-135534.png" group-title="TV Daerah",Tegar TV
+http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1639503258.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/26pHtTnf/20221117-135500.png" group-title="TV Daerah",Madu TV 
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xq4sjJ2H/20221117-135227.png" group-title="TV Daerah",Banyumas TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgBfXLcm/20221117-135211.png" group-title="TV Daerah",Puja TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/K8kDyBGc/20221117-134856.png " group-title="TV Daerah",RCTV
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yN0hDK3w/20221117-134835.png" group-title="TV Daerah",Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G2QkjjQK/20221117-134820.png" group-title="TV Daerah",ADI TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+#EXTINF:-1 tvg-id="TVKU.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/ryf10QzF/20221117-134709.png" group-title="TV Daerah",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.postimg.cc/gk534jvC/20221117-134649.png" group-title="TV Daerah",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb7Xwv6s/20221117-134539.png" group-title="TV Daerah",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gJYhrZWZ/20221117-134520.png" group-title="TV Daerah",JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1534412918.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vvh07Zbq/20221117-134402.png" group-title="TV Daerah",Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:-1 tvg-name="TV" tvg-logo="https://i.postimg.cc/gkf685pd/20221117-134309.png" group-title="TV Daerah", Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+===DISCOVERY====
+#EXTINF:0, group-title="DISCOVERY",CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+===SPORT====
+#EXTINF:0, group-title="SPORT",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+===== CCTV YOGYAKARTA =====
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/22dbc23373eb541a51aac.jpg" group-title="CCTV YOGYAKARTA", Pasar Bantul
+https://mam.jogjaprov.go.id:1937/cctv-bantul/PasarBantul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/09f26531bff53f58325ab.jpg" group-title="CCTV YOGYAKARTA", Stasiun Tugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewStasiunTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/5033ec88ad00781741857.jpg" group-title="CCTV YOGYAKARTA", Alun Alun Kidul
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewAlunAlunKidul.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/88614025a56b19c930c47.jpg" group-title="CCTV YOGYAKARTA", Nol KM
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewNolKilo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwqqBequIoZObs0nOPDSrtrD9MoOVJCs9j8Zyxx67SzXFnEo&s" group-title="CCTV YOGYAKARTA", Bendungan klegen
+https://mam.jogjaprov.go.id:1937/cctv-bantul/BendungKlegen.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/b07e5a0cff8d4cdff81eb.jpg" group-title="CCTV YOGYAKARTA", Beringharjo
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanBeringharjo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/78e6608dd662e5e573a34.jpg" group-title="CCTV YOGYAKARTA", Tugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/eae65772883d3f6b80d66.jpg" group-title="CCTV YOGYAKARTA", Depan Garuda
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanGaruda.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/46f4e7ca08a9159770e57.jpg" group-title="CCTV YOGYAKARTA", Simpang Tugu
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewSimpangTugu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/e6d3902e48cc0426996e1.jpg" group-title="CCTV YOGYAKARTA", Malioboro
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMalioboro.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/1d8f37712b6e07c611d61.jpg" group-title="CCTV YOGYAKARTA", Breksi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBreksi.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/5a4eea04086c896a9b10c.jpg" group-title="CCTV YOGYAKARTA", Candi Sambisari
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewCandiSambisari.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/db3ba3f02f49420b41e4a.jpg" group-title="CCTV YOGYAKARTA", Mangunan
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewMangunan.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/81717f4a2eacb94928dc7.jpg" group-title="CCTV YOGYAKARTA", Malioboro Mall
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewDepanMall.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/fea36f31f2b0d97b0daf2.jpg" group-title="CCTV YOGYAKARTA", Baron Timur
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronTimur.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtrBYIad0s0M5eBAQRjzUZRDiE7dncYOs0_3pB74hnS30lMFg&s" group-title="CCTV YOGYAKARTA", Baron Barat
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewBaronBarat.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/5e77a19999f5df779f4b7.jpg" group-title="CCTV YOGYAKARTA", Kali Biru
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewKalibiru.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/e01b502c41827729221a0.jpg" group-title="CCTV YOGYAKARTA", Gunung Merapi
+https://mam.jogjaprov.go.id:1937/cctv-public/ViewGunungMerapi.stream/playlist.m3u8
