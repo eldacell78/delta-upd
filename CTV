@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Patung_Lembuswana-Pesut_Mahakam_di_Samarinda-Kukar.jpg/800px-Patung_Lembuswana-Pesut_Mahakam_di_Samarinda-Kukar.jpg" group-title="CCTV SAMRINDA",simpang lembuswana tenggarong
+#https://samarindakota.go.id/
+https://diskominfo.samarindakota.go.id/api/cctv/simpang-lembuswana-tenggarong
+#EXTINF:-1 tvg-id="CCTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIjhdI3NCHMTLuZHaCqVspvFL49oVp86tl7g&usqp=CAU", group-title="CCTV SAMRINDA", BANDARA APT PRANOTO
+https://diskominfo.samarindakota.go.id/api/cctv/bandara-apt-pranoto
