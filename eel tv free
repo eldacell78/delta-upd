@@ -1,0 +1,8 @@
+#EXTINF:-1 tvg-logo="https://macan.live/img/salam_tv.png" group-title="RELIGI", Salam TV
+https://delivery.macan.live/stream/salam_tv/index.m3u8?token=OpCKsDAP&v=20200308
+
+#EXTINF:-1 tvg-logo="https://macan.live/img/daaitv.png" group-title="RELIGI", DAAI TV
+https://delivery.macan.live/stream/id_daai/index.m3u8?token=OpCKsDAP&v=20200308
+
+#EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MU
+https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
