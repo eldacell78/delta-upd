@@ -15,3 +15,5 @@ https://delivery.macan.live/stream/salam_tv/index.m3u8?token=OpCKsDAP&v=20200308
 https://delivery.macan.live/stream/id_daai/index.m3u8?token=OpCKsDAP&v=20200308
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MU
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
+EXTINF:-1 tvg-logo="https://cdn-kisikisi.qerja.com/asset/images/logo/samarinda-televisi_fb.png" group-title="LOKAL PLUS",STV SAMARINDA
+http://122.248.32.234:1935/ch19/myStream/live.m3u8
