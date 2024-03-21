@@ -2,22 +2,60 @@
 ######### Music ###########
 #EXTINF:-1 group-title="Music",DJING KARAOKE
 https://www.djing.com/tv/karaoke.m3u8
+
 ######### Religious ###############
 #EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="Religious",Al Quran Al Kareem TV
-http://rr2.dens.tv/s/s28/index.m3u8
+#http://rr2.dens.tv/s/s28/index.m3u8
+
 #EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="Religious",AsSunnah AnNabawiyah TV
-http://rr2.dens.tv/s/s27/index.m3u8
+#http://rr2.dens.tv/s/s27/index.m3u8
+
 #EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" group-title="Religious",Aqsha TV
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+#http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+
 #EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/3N9q0TIXBLMnb3ZJUAV6u5H3yyz6tPtJU2659LaTcT0iQ0MlyIfxSnv5gke3lZJKo7EQhsrb=s176-c-k-c0x00ffffff-no-rj" group-title="Religious",Islamic Kaltim TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711036505/ei/-QP8Za3PMff9juMPmaqM6A4/ip/2001%3A448a%3A6102%3A4c50%3A6173%3Adabb%3Acc1%3Ab53/id/Kj2LuV0715c.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-9X-Qf36biGdH7qr8Jzy8tmy4XaguETP6HAmdnkTJU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgEExvmiC-tLprkOFi_MItqXJiSk1gFt5zEqBIj6rTK18CIAFGrmShtMN90I-51dbO-fMQYrJ6aU2owa1mRmV8L_-4/file/index.m3u8
+
 #EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s176-c-k-c0x00ffffff-no-rj" group-title="Religious",Lafadz Doa
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711058503/ei/51n8Zf_YIprms8IPh9Ij/ip/2001%3A448a%3A6102%3A4c50%3A6173%3Adabb%3Acc1%3Ab53/id/NqDQm272Lhs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-nrVQlkbbrvAwutjLgVpXvVdgXqunu6gDPqrx5ZwSo/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRK6WPP2JArXr4HzI9iRwh4n1Zj1EvVhbKJ7T3P34eKQCIQDa0k0b5AYKvnkbjzrpxlupD0IFrqCi8eqZcd1vcw9QiQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://macan.live/img/salam_tv.png" group-title="RELIGI", Salam TV
-https://delivery.macan.live/stream/salam_tv/index.m3u8?token=OpCKsDAP&v=20200308
+#https://delivery.macan.live/stream/salam_tv/index.m3u8?token=OpCKsDAP&v=20200308
+
 #EXTINF:-1 tvg-logo="https://macan.live/img/daaitv.png" group-title="RELIGI", DAAI TV
-https://delivery.macan.live/stream/id_daai/index.m3u8?token=OpCKsDAP&v=20200308
+#https://delivery.macan.live/stream/id_daai/index.m3u8?token=OpCKsDAP&v=20200308
+
 #EXTINF:-1 tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGI",TV MU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
-EXTINF:-1 tvg-logo="https://cdn-kisikisi.qerja.com/asset/images/logo/samarinda-televisi_fb.png" group-title="LOKAL PLUS",STV SAMARINDA
+#https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
+
+##### LOKAL DAERAH ########
+#EXTINF:-1 tvg-logo="https://cdn-kisikisi.qerja.com/asset/images/logo/samarinda-televisi_fb.png" group-title="LOKAL DAERAH",STV SAMARINDA
 http://122.248.32.234:1935/ch19/myStream/live.m3u8
+
+##### RAMADHAN #####
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",AL-BAHJAH TV
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",MTA TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(041307e6-5f66-42cc-9215-37bab1980265)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",RODJA TV 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(77b296f5-13c9-42b1-ad8d-35ad237564f8)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",RODJA TV 3
+http://45.126.83.51/session/6efa3aae-8cad-11ea-bfb8-ba50b7392469/qwr9ew/s/s14/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",TV9
+https://vcdnjt.useetv.com:443/joss/14/tv9/chunklist_w1823610374_b684100_sleng_177560.m3u8?enc=gHehqfx82RU4rLomNI6dfQ&exp=1587472048
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",TAWAF TV
+http://stream2.ninmedia.tv:1935/tawaftv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="RAMADHAN",TAHFIDZ TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
