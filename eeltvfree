@@ -1,4 +1,15 @@
 #extm3u
+######### Music ###########
+#EXTINF:-1 group-title="Music",DJING KARAOKE
+https://www.djing.com/tv/karaoke.m3u8
+######### Religious ###############
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="Religious",Al Quran Al Kareem TV
+http://rr2.dens.tv/s/s28/index.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="Religious",AsSunnah AnNabawiyah TV
+http://rr2.dens.tv/s/s27/index.m3u8
+#EXTINF:-1, tvg-ID="" tvg-name="" tvg-logo="http://live.artvisi.or.id/logo/aqshatv.png" group-title="Religious",Aqsha TV
+http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://macan.live/img/salam_tv.png" group-title="RELIGI", Salam TV
 https://delivery.macan.live/stream/salam_tv/index.m3u8?token=OpCKsDAP&v=20200308
 
