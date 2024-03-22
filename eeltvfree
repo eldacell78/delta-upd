@@ -1,88 +1,184 @@
-#extm3u
-######### Music ###########
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://djing.com/newimages/content/c01.jpg" group-title="Music",DJING KARAOKE
-https://www.djing.com/tv/karaoke.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU BARAT",Lagu Barat Terpopuler Januari 2020
+https://archive.org/download/lagubaratterpopulerjanuari2020/Lagu%20Barat%20Terpopuler%20januari%202020.mp4
+================= LAGU MELAYU =================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Nafas Cinta
+https://archive.org/download/20190822_20190822_0813/-%20%21nka%20nafas%20c%21nta.mp3
+#https://ia801002.us.archive.org/17/items/20190822_20190822_0813/-%20!nka%20nafas%20c!nta.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Izinkan Qhu Selamanya
+https://archive.org/download/20190822_20190822_0813/-%20%21z%21nkan%20qhu%20s%C2%A3lamanya%20.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Air Mata Perkawinan
+https://archive.org/download/20190822_20190822_0813/-%20a%21r%20mata%20p%C2%A3rkaw%21nan.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Bila Cinta Di Dusta
+https://archive.org/download/20190822_20190822_0813/-%20b%21la%20c%21nta%20d%21%20dusta.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Bunga
+https://archive.org/download/20190822_20190822_0813/-%20bunga.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Dinda Nirmala Sari
+https://archive.org/download/20190822_20190822_0813/-%20d%21nda%20n%21rmala%20sar%21.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Dermaga
+https://archive.org/download/20190822_20190822_0813/-%20d%C2%A3rmaga%20.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Hakikat Cinta
+https://archive.org/download/20190822_20190822_0813/-%20hak%21kat%20C%21nta.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Hati Yang Luka
+https://archive.org/download/20190822_20190822_0813/-%20hati%20yang%20luka.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Kusangka
+https://archive.org/download/20190822_20190822_0813/-%20kusangka.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Kenangan
+https://archive.org/download/20190822_20190822_0813/-%20k%C2%A3nangan.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Menanti
+https://archive.org/download/20190822_20190822_0813/-%20m%C2%A3nant%21.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Menunggu
+https://archive.org/download/20190822_20190822_0813/-%20m%C2%A3nunggu.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Pulanglah Kasih
+https://archive.org/download/20190822_20190822_0813/-%20pulanglah%20kas%21h.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Rindiani
+https://archive.org/download/20190822_20190822_0813/-%20r%21nd%21an%21.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Rheina
+https://archive.org/download/20190822_20190822_0813/-%20rh%C2%A3%21na.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Sonia Sayang
+https://archive.org/download/20190822_20190822_0813/-%20s0n%21a%20sayang.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Sheyla
+https://archive.org/download/20190822_20190822_0813/-%20sh%C2%A3yla.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Suci Dalam Debu
+https://archive.org/download/20190822_20190822_0813/-%20suc%21%20dlm%20d%C2%A3bu.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Syahara
+https://archive.org/download/20190822_20190822_0813/-%20syahara.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Sembilu
+https://archive.org/download/20190822_20190822_0813/-%20s%C2%A3mb%21lu.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Exist : Rindu Serindu-Rindunya
+https://archive.org/download/20190822_20190822_0813/-%20%C2%A3xIs%20r%21ndu%20s%C2%A3r%21ndu%20r%21ndunya.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Exist : Mencari Alasan
+https://archive.org/download/20190822_20190822_0813/-%20%C2%A3xls%20m%C2%A3ncar%21%20alasan.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",M. Yelse : Penuh Kepals
+https://archive.org/download/20190822_20190822_0813/M.Yelse%20Penuh%20Kepals.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Exist: Kenangan
+https://archive.org/download/20190822_20190822_0813/Malaisya%20Exist~%20kenangan.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Exist: Buih Jadi Permadani
+https://archive.org/download/20190822_20190822_0813/Malaisya%20exist~buih%20jadi%20permadani.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Exist
+https://archive.org/download/20190822_20190822_0813/Malaysia%20Exsist.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Rindiani
+https://archive.org/download/20190822_20190822_0813/Malaysia~Rindiani.mp3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Kau Sebut Namaku
+https://archive.org/download/20190822_20190822_0813/malaYsia-Kau%20Sebut%20Namaku.mp3
+#EXTINF:-1 tvg-logo="https://ia800102.us.archive.org/3/items/NellaKharismaKimcilKepolenJITUNADA/__ia_thumb.jpg" group-title="Dangdut on Demand",Nella Kharisma - Kimcil Kepolen 
+https://archive.org/download/NellaKharismaKimcilKepolenJITUNADA/Nella%20Kharisma%20-%20Kimcil%20Kepolen%20%5BJITUNADA%5D.mp4
+=========MUSIC========
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bvyp6pQv/Beda-prinsip-channel.jpg" group-title="MUSIC",ONE
+http://rtmp.one.by:1300
 
-######### RELIGIOUS ###########
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://storage.nu.or.id/storage/post/1_1/mid/1502245431598a72373c41e.jpg" group-title="RELIGIOUS",(ID) NADA MUSLIM TV
-http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/e3/Muslim_TV.png" group-title="RELIGIOUS" group-title="RELIGIOUS",(ID) MUSLIM TV 
-https://anevia114.mncnow.id:443/live/eds/MNCMuslim/sa_hls/MNCMuslim.m3u8?
+#EXTINF:-1 tvg-id="BalikapanTV.id",Balikapan TV (720p)
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="BTV.id",BTV (720p)
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia.id",CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id",CNN Indonesia (720p) [Geo-blocked]
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DigiOne.id",DigiOne (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+#EXTINF:-1 tvg-id="DuniaGamesTV.id",Dunia Games TV (720p) [Not 24/7] [Geo-blocked]
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8
+#EXTINF:-1 tvg-id="JekTV.id",Jek TV (720p) [Not 24/7]
+http://61.8.64.138:1935/jektv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Max2U.id",Max2U (720p)
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id",Metro Globe Network (1080p) [Not 24/7]
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGITV.id",MGI TV (720p) [Geo-blocked]
+https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MGSTV.id",MGS TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-id="MQTV.id",MQTV (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+EXTINF:-1 tvg-id="MyCinema.id",My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="MyCinemaAsia.id",My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-id="MyFamily.id",My Family Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="MyKidz.id",My Kidz (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+#EXTINF:-1 tvg-id="SangajiTV.id",Sangaji TV (720p) [Not 24/7]
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 tvg-id="SemarangTV.id",Semarang TV (720p)
+http://116.254.112.74/hls/cakralive.m3u8
+#EXTINF:-1 tvg-id="TVKesehatan.id",TV Kesehatan (1080p)
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTabalong.id",TV Tabalong (720p) [Not 24/7]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id="TVKU.id",TVKU (720p)
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="TVRIAceh.id",TVRI Aceh (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIBali.id",TVRI Bali (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIBangkaBelitung.id",TVRI Bangka Belitung (480p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1 tvg-id="TVRIEastKalimantan.id",TVRI Kalimantan Timur (720p)
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1 tvg-id="UGTV.id",UGTV (720p)
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+#EXTINF:-1 tvg-id="RajawaliTV.id",Rajawali TV
+https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.paytren.co.id/wp-content/uploads/2019/02/logo.png" group-title="RELIGIOUS", (ID) PAYTREN TV
-http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV9NUSANTARA.png" group-title="RELIGIOUS",TV 9 NUSANTARA
-https://anevia115.mncnow.id:443/live/eds/TV9/sa_hls/TV9.m3u8?
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://macan.live/img/salam_tv.png" group-title="RELIGIOUS", Salam TV
-https://delivery.macan.live/stream/salam_tv/index.m3u8?token=OpCKsDAP&v=20200308
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://macan.live/img/daaitv.png" group-title="RELIGIOUS", DAAI TV
-https://delivery.macan.live/stream/id_daai/index.m3u8?token=OpCKsDAP&v=20200308
-
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://www.hidayatullah.com/files/bfi_thumb/logo-TVMU-copy-2xoca7ornl3j2e2w9pj5kw.jpg" group-title="RELIGIOUS",TV MU
-https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_hls/TVMuhammadiyah.m3u8
-
-######### RADIO INDONESIA #############
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Duta_Swara_Bojonegoro.png" group-title="RADIO INDONESIA", 88.3 Duta Swara FM Dander Bojonegoro
-http://dutaswarafm.onlivestreaming.net:9292/listen.pls?sid=1
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://radioistanabojonegoro.com/wp-content/uploads/2022/10/logo-istana-BJN.webp" group-title="RADIO INDONESIA", 95.0 FM Istana Radio Bojonegoro (Winamp)
-http://199.15.251.137:8000/istana.m3u
-
-########### Lokal Daerah ID ##############
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="Lokal Daerah ID",TVRI KALTIM SAMARINDA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/8/88/20151126220725%21TepianTV_logo.png" group-title="Lokal Daerah ID",TEPIAN TV Samarinda
-https://m.player.twitch.tv/?channel=tepiantv
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/8/88/20151126220725%21TepianTV_logo.png" group-title="Lokal Daerah ID",Tepian Tv Samarinda 2
-http://wms.klikhost.com/tepiantv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/8/88/20151126220725%21TepianTV_logo.png" group-title="Lokal Daerah ID",Tepian Tv Samarinda 3
-rtmp://wms.klikhost.com/tepiantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lokal Daerah ID",TOBA TV
-https://player.twitch.tv?channel=tobatv_
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lokal Daerah ID",KALSELPOS TV
-https://kalselpos.com/wp-content/uploads/2020/03/WhatsApp-Video-2020-03-13-at-03.24.38.mp4?_=3
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/BTV_Balikpapan.jpg/120px-BTV_Balikpapan.jpg" group-title="TV Daerah",BTV BALIKPAPAN
-http://122.248.32.234:1935/ch10/myStream/live.m3u8
-#https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9e/STV_Samarinda.png/120px-STV_Samarinda.png?20230126095724" group-title="Lokal Daerah ID",STV SAMARINDA
-http://122.248.32.234:1935/ch19/myStream/live.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png" group-title="Lokal Daerah ID",TVKU
-http://streamku.live:8888/live/Premium/Premium2020/965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ee/Batamtv.jpg" group-title="Lokal Daerah ID",Batam TV
-http://streamku.live:8888/live/Premium/Premium2020/962.ts
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_bdg_tv_2016.png" group-title="Lokal Daerah ID",Bandung TV
-http://streamku.live:8888/live/Premium/Premium2020/958.ts
-
-######### NINMEDIA #################
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/kFORfvqXDnzFDtrIln_dQOKdYs1fh2feIbnYWNkMPKwmooo5ihiJ87JYW_h9kNmSUrhF" group-title="NINMEDIA",DMI TV
-http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",SALINGSAPA
-http://stream1.ninmedia.tv/salingsapa/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",NU CHANNEL
-http://stream1.ninmedia.tv/nuchannel/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",RRI NET
-http://stream1.ninmedia.tv/rrinet/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",GPR TV
-http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",MI TV
-http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="NINMEDIA",TRIBRATA TV
-http://stream1.ninmedia.tv/tribratatv/udp.stream_360p/playlist.m3u8
-
-######### YOUTUBE LIVE #################
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fPq7eGV9iqTsd47egSOQkTIIG7S1ACuc_D2aGTDjh70dy0cip87mysdsRpoqPSYQiUbk1WHJWw=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE LIVE",Bacaan Al Quran Merdu Pengantar Tidur, Penenang Hati & Pikiran
+######### YOUTUBE DOA LIVE #################
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fPq7eGV9iqTsd47egSOQkTIIG7S1ACuc_D2aGTDjh70dy0cip87mysdsRpoqPSYQiUbk1WHJWw=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE DOA LIVE",Bacaan Al Quran Merdu Pengantar Tidur, Penenang Hati & Pikiran
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711071321/ei/-Yv8ZbObF_q-4t4P--OJgAk/ip/2001%3A448a%3A6102%3A4c50%3A6173%3Adabb%3Acc1%3Ab53/id/mTCwx0_PxjI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f2T49UacRGAucVyDzvSzsQvejnsKPmyM4doK_rg47to/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMBX2PGoenQLD4ajyfS7_7ScNAwH6MlNPBg1DihKOppSAiAaGVzMzzYxCmdm1q3Z0s2zhROS-C47kFQCmN-8BQ2mVA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fPq7eGV9iqTsd47egSOQkTIIG7S1ACuc_D2aGTDjh70dy0cip87mysdsRpoqPSYQiUbk1WHJWw=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE LIVE",PUTAR DZIKIR INI❗Dzikir Mustajab Pembuka Pintu Rezeki
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/fPq7eGV9iqTsd47egSOQkTIIG7S1ACuc_D2aGTDjh70dy0cip87mysdsRpoqPSYQiUbk1WHJWw=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE DOA LIVE",PUTAR DZIKIR INI?Dzikir Mustajab Pembuka Pintu Rezeki
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711071899/ei/O478ZbKmKPrw4-EP5oC3oAE/ip/2001%3A448a%3A6102%3A4c50%3A6173%3Adabb%3Acc1%3Ab53/id/QrPlWGpNV94.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7CcNFI0qxVpQ0ay4FR2fH8O0G-m9oOSW2eM7No_tRE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAMH9nGPDQHIBE0FPYh1HMXJCP-Z4gTozxwlMG3WxFXgmAiEA07Xg5jKVwgQrqYK48U8QrdjAjKiXehZksZlHWUP_u20%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/H9dQZRh24XYR2lrlxh35kHaecP9FrGXHZGv5ttIKZQertcQHvl6ZLSFjAfhLo-FKYWkyFYRitA=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE LIVE",SURAH AL-KAHFI JUMAT BERKAH | Murottal Al-Quran yang sangat Merdu | By Ahmad Shalabi
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/H9dQZRh24XYR2lrlxh35kHaecP9FrGXHZGv5ttIKZQertcQHvl6ZLSFjAfhLo-FKYWkyFYRitA=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE DOA LIVE",SURAH AL-KAHFI JUMAT BERKAH | Murottal Al-Quran yang sangat Merdu | By Ahmad Shalabi
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711072298/ei/yo_8ZfTeN7TV4-EPxpS6iA8/ip/2001%3A448a%3A6102%3A4c50%3A6173%3Adabb%3Acc1%3Ab53/id/Th-szgHN-2Y.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f7gLkcwWp0KyTNRkbL_zpIgGxrBibWTU6Ng4VJFsI7I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgc5764He1hruNA-F9Xb9zjOAHoPr0IpYMuaoM-faftssCIQDNAmVDjdqY-f8Wdc8t3_dqLS7LlKvvkIMNlkRHTbkO-Q%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s48-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE LIVE",SURAH ALKAHFI Malam Jumat Berkah
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/HZ_noBZdkxvG11FgOoSo8SUbhjAqlKBegw6nKnGOWTQf6EUQ3BMEPQQUK_MguEeYAvdYbfFH=s48-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE DOA LIVE",SURAH ALKAHFI Malam Jumat Berkah
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711073075/ei/05L8ZeT4M4Sz4t4PhfqkwA4/ip/2001%3A448a%3A6102%3A4c50%3A6173%3Adabb%3Acc1%3Ab53/id/NqDQm272Lhs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy-SPTqF3Uxr09vTZ2HlZ_OS83_vL8DSDpAdBClYfXY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANFmDK8IOvcisxDRasj5eqb8-A83yCfhZCFWft7AnKI2AiEArSkDDVImmEVa-6ldEYLX6Ogp457_2rKaC3EVRi1l4Po%3D/file/index.m3u8
+######### YOUTUBE MUSIC RELAX LIVE #################
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/FtNVdY9jLar4Mm6duMcIbSzBqCN-rR8zKVOSLJapl_TzfDr32Juz2y4xejX_-lD1M9Ko0mPc=s176-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE MUSIC RELAX LIVE",Coffee Work Jazz
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711140791/ei/V5v9ZaKPOfntz7sP0fanuAQ/ip/2001%3A448a%3A6102%3A4c50%3A9048%3A304c%3A2ce8%3Ad8ce/id/35kwlY_RR08.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123456/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4vF3S2p5l7p0xGSlzsSF-t0Rq8DvX4uIRDzEf4KPL8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVJgsv6ngMJZPxWrXEYziD1sUA2qJAGg-URbQj2qIQW8CIQC-KrZ_kiAJ1zDICExJ8XjarrDI7x52PLQHqGZn4sa4tQ%3D%3D/file/index.m3u8
+######### YOUTUBE MUSIC LIVE #################
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Izp-zEcGEjtvYgTZY8o_A1UtJbgmkAt304TFX8z-U7z3ieFNlgJb2fJzgQMbO5FWZ17F0UNm=s48-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE MUSIC LIVE",Top 40 Songs of 2022 2023
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711142236/ei/_KD9Zc3zF_nu7OsPs7iZ8AE/ip/2001%3A448a%3A6102%3A4c50%3A9048%3A304c%3A2ce8%3Ad8ce/id/ku5VKha1VB8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123456/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/spc/UWF9f52mhsihtfezU0yeefZGOxyz6v-tPekNln20jPKNbik/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANjX2stylXuy9mWO1tugZ6ycJnyjZBpq0bocEayMGx8aAiEA5IjFD7I7RsHjt07Z2zQTZF7qQrU-lzHdfE6H7YmmaIQ%3D/file/index.m3u8
+######### YOUTUBE MUSIC RADIO LIVE #################
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/zJtLviP77uKqO_KWlr2b4WHF8CpQ_XG0pF5uofDPAadUPJcQkoy55un_7qlCyikVJePjmFfL1kE=s48-c-k-c0x00ffffff-no-rj" group-title="YOUTUBE MUSIC RADIO LIVE",Hits Radio 1 Live Pop Radio' Top Hits 2023 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711141483/ei/C579ZfetEbi3juMPp_Kt8Ak/ip/2001%3A448a%3A6102%3A4c50%3A9048%3A304c%3A2ce8%3Ad8ce/id/HQtFR3mhzOY.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51123456/txs/51123452%2C51123453%2C51123454%2C51123455%2C51123456%2C51123457/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9iLry1OeZmCLjAjzrDLxBT8Go4EsUykGyuD7tQ0U6A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM8tKxN7wSqhbg0EqFt1_x0P2EabfEEQsmjar9viGEEvAiEAjyozcHAt5vPrL_F5aIOuomj5WHtxMUKeN6N4arc_oAM%3D/file/index.m3u8
+######### RADIO LIVE - 24/7 #################
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JuhrPE_emoA/Vu6OL8PA_wI/AAAAAAAADpo/e3uvLa3z5SofYw3rWEYELLvMgnm7K9Xew/s1600/Flower_power_radio.jpg" group-title="RADIO LIVE - 24/7",The Flower Power Radio is autoplay
+http://www.sourceradio.co.uk/audio/SourceOneDemo.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", streaming plus ponorogo
+https://www.dropbox.com/s/yts37kneam45l4a/Full%20Dangdut%20Koplo%20Jawa%20Mantul.mp3?dl=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", STREAMING FOURTEEN SEMARANG
+http://virtualdjradio.com:8000/channel2.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", DANGDUT KOPLO CAMPURSARI MP3
+https://a8.siar.us/listen/campursari/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", STREAMING RADIO WATON MUNI
+https://stream.zeno.fm/5gawrnc6g0hvv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", STREAMING BERISIK RADIO ONLINE nonstop
+https://stream.zeno.fm/rudtpbce6ehvv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", mp3 full nonstop
+http://scg.streamingmurah.com:7777/;
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV YOUTUBE LIVE", LIVE SONG 24/7
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705328174/ei/zumkZZGkBZjC4t4Pm46CoAk/ip/2001%3A448a%3A6102%3A7b07%3A65cc%3A4917%3Acf70%3A1ef6/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-5CScnGltvVyNR9kzthV5whZUx3Dw-3TVfv_cvIN7c/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaPX8kQT3QcdQx4VvA1bKxVsax3J6lu0idj4bfbluC_0CIQDAnxivdousttlu0aBWQ1sl0Ytthgi9lPfvHLigu_A4CQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV YOUTUBE LIVE", Deep House Radio • 24/7 Live Radio | Relaxing
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705328835/ei/Y-ykZdCzHJyEs8IPk4WkwAk/ip/2001%3A448a%3A6102%3A7b07%3A65cc%3A4917%3Acf70%3A1ef6/id/IkmLXvBfVv0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5PRN1LmUPw9AMVCWid3tECEud42O1MHTZ2o22xQcak/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWBrD8pIqRuTNbKR-xROX5M_hphYe9bBgCKjtnx8io0ACID5RdcS3qBKV33U9JErs1MaQZSAHulxgA79UNxhp05AX/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV YOUTUBE LIVE MUSIC", Lagu Nostalgia | Tembang Kenangan | Lagu Pop Lawas 80an 90an Indonesia Terpopuler Paling Dicari
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705328971/ei/6-ykZfqKHvOg0-kP9su-IA/ip/2001%3A448a%3A6102%3A7b07%3A65cc%3A4917%3Acf70%3A1ef6/id/Xrvk0Hp6_XM.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/id/spc/UWF9fweu1kc2Gym3hGGC8jo6TrY5GouClhVrBYve5OHdoHA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKAr2BRBAzVH97rHHW_vAfrp6qlWIoPcEjTLm1hG4IL_AiAbOpB4RvhCsTAHSM2w4mZeG1SPNHPQNggBgVAVDVVr5g%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV YOUTUBE LIVE MUSIC DJ", NonStop Music DJ Breakbeat Lagu Indonesia 2024 B 15 LS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705329239/ei/9-2kZdfAC7r04t4Pxbe0yA8/ip/2001%3A448a%3A6102%3A7b07%3A65cc%3A4917%3Acf70%3A1ef6/id/6PSmB4Ods70.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0IVVN_TblaF5MCNy9ZmTFemp0V4RdpkUs-Z_PP05I0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJAO6DujmZjg0W8recM3pkp6G-N9Niwb0jXY5YZM3qdRAiEAgMltP-8KmWkv88HSsImhEqPiGrZ6h5Um3AchTZAITcg%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV YOUTUBE LIVE MUSIC", Best Of OPM Acoustic Love Songs 2024 Playlist 658 ?? Top Tagalog Acoustic Songs Cover Of All Time
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705329457/ei/0O6kZbLeO9-BjMwP-OmGkAo/ip/2001%3A448a%3A6102%3A7b07%3A65cc%3A4917%3Acf70%3A1ef6/id/N51mf4f8vPQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-iwO2j81fCWTh40Eo7KWh7xtISgg_jYZ1cFYw9Cd9M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFH0bMJOdTwhlILisitLssCH6BIBpX6BAaFnaVDVHvakCIQCY5PxFwfsG5JE6B-lWbC7wmmu-34Kf3kg2A6zMCLFj0g%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qV3lJJ8ouEJSm7MVawr0I_rzFWXEvUqKk5OtUdcX182owLIuackZ-Fa3oXqM63uJ4Ui_F0fv-A=s176-c-k-c0x00ffffff-no-rj" group-title="TV YOUTUBE LIVE MUSIC", 50 Top Hits Slow Rock Baper
+#@MelodyNostalgia6868
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705500345/ei/WYqnZdfWENex0-kPlYqUiA0/ip/2001%3A448a%3A6102%3Adee9%3A69f6%3A3732%3A6a14%3Ab9fb/id/UvJmzu5-Gxs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fybLuq3yaaCI-QXP0cYl3QxcD--djZ2Txvol1kn_V4Y/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIfRzcAATvViXagLdB4C_O4MyJjwmV7hb52G5YXZvn6zwIhANU0fsqWDeKqMhSr01WDM7p8th07UMBQFEKcRszJALms/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Is03gZsBeq0/maxresdefault_live.jpg" group-title="TV YOUTUBE LIVE MUSIC", LIVE ?? NAGASWARA Pop - nonSTOP
+#youtube id @nagaswarafmbgr
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705501521/ei/8Y6nZZjANajas8IPrt2e-As/ip/2001%3A448a%3A6102%3Adee9%3A69f6%3A3732%3A6a14%3Ab9fb/id/Is03gZsBeq0.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwOZZhlt2jowH14JeGM1qStXH6IrpxLReBErOov7tk8/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKUVTUBfyChOeRxCvNBQjV12NAOU6r4TBKH4_a0mb2NICIQDvSoAhFlsm4zZb6gNj9rry7QszNZPVyak0avUumGcOOQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/NYoNORroe3o/hqdefault.jpg" group-title="TV YOUTUBE LIVE MUSIC", LIVE - NAGASWARA TOP 1000 MUSIC VIDEO - nonSTOP
+#youtube id @nagaswarafmbgr
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705501932/ei/jJCnZazgMvCb0-kPzIGWsAI/ip/2001%3A448a%3A6102%3Adee9%3A69f6%3A3732%3A6a14%3Ab9fb/id/NYoNORroe3o.1008/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_KTx6_zZGkMFZuOQM0BP7Ke7orY9JRTYTtIyNO1JWc/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOGJTi_wTFVtXutEpSSFt4liNNwHUh6ShgxIGA_dkZTkCIQC0VTqzu5rbQvWMHDBLuMtkwMNjKPIOjSqbW__X97Y9OA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/LFPwDygY6pg/hqdefault.jpg" group-title="TV YOUTUBE LIVE MUSIC", ?? KERISPATIH dan THE VIRGIN ?? LIVE nonSTOP
+#youtube id @nagaswarafmbgr
+#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705502260/ei/1JGnZfuaKIT3z7sP-Zic6As/ip/2001%3A448a%3A6102%3Adee9%3A69f6%3A3732%3A6a14%3Ab9fb/id/LFPwDygY6pg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8wQq3-HXgQWHTat8DE8uSze-p0T0JVX3hekrbiBU3c/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMEoN54FNVAN1n0VDXTh-LyHww6hFgemgbBS1dSsqP6gAiBCtdlCgML6wG9Gxw-0SW3zxitkiwgKd3AZ57w0859geg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/dash/expire/1705742561/ei/gTyrZbLHMJay4t4P97SkkA0/ip/2001%3A448a%3A6102%3A946a%3Aa486%3A9b5%3A87f5%3A705c/id/LFPwDygY6pg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/spc/UWF9f29pqX2dhf9vRnpvgwXGhyKxpX3k55psIkk7tEl-N1o/vprv/1/pacing/0/keepalive/yes/fexp/24007246/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cas%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPb2mhJBOf7mAUC36E0gBBLreiOGGkcENTGcLvZkVgARAiAtanEzrzOZCCcEkgeOEzHVnDRsjBvsi27Kx3rSaFqJrw%3D%3D","hlsManifestUrl":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705742561/ei/gTyrZbLHMJay4t4P97SkkA0/ip/2001%3A448a%3A6102%3A946a%3Aa486%3A9b5%3A87f5%3A705c/id/LFPwDygY6pg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f29pqX2dhf9vRnpvgwXGhyKxpX3k55psIkk7tEl-N1o/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPOcKy797lweeaI6T2tBMVWLZkgGFYnmnQIx3Kh4RD8bAiEA9YEc3g_4pQyV-5RQjdeafAguv55-ovgdfPnmlaPmou0%3D/file/index.m3u8
