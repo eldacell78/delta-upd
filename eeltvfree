@@ -145,18 +145,26 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711141483/ei/C
 ######### RADIO LIVE - 24/7 #################
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JuhrPE_emoA/Vu6OL8PA_wI/AAAAAAAADpo/e3uvLa3z5SofYw3rWEYELLvMgnm7K9Xew/s1600/Flower_power_radio.jpg" group-title="RADIO LIVE - 24/7",The Flower Power Radio is autoplay
 http://www.sourceradio.co.uk/audio/SourceOneDemo.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", streaming plus ponorogo
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e4/12/e41276df351143e5353f9ea4651408bf.jpg" group-title="RADIO LIVE - 24/7", streaming plus ponorogo
 https://www.dropbox.com/s/yts37kneam45l4a/Full%20Dangdut%20Koplo%20Jawa%20Mantul.mp3?dl=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", STREAMING FOURTEEN SEMARANG
+#EXTINF:-1 tvg-logo="https://kominfo.kotabogor.go.id/asset/images/web/konten/radio-dan-perkembangannya.jpg" group-title="RADIO LIVE - 24/7", STREAMING FOURTEEN SEMARANG
 http://virtualdjradio.com:8000/channel2.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", DANGDUT KOPLO CAMPURSARI MP3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d0/Campursari_FM_892.png/150px-Campursari_FM_892.png" group-title="RADIO LIVE - 24/7", DANGDUT KOPLO CAMPURSARI MP3
 https://a8.siar.us/listen/campursari/stream
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", STREAMING RADIO WATON MUNI
+#https://streaming.campursarifm.com/listen/campursari/campursari892
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radioonline-co-id/waton-muni.png" group-title="RADIO LIVE - 24/7", STREAMING RADIO WATON MUNI
 https://stream.zeno.fm/5gawrnc6g0hvv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", STREAMING BERISIK RADIO ONLINE nonstop
 https://stream.zeno.fm/rudtpbce6ehvv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pAFDc2M.png" group-title="RADIO LIVE - 24/7", mp3 full nonstop
 http://scg.streamingmurah.com:7777/;
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PW4qA7U42E.jpg" group-title="RADIO LIVE - 24/7", Radio Music Indonesia-POP Indonesia yang pernah Hits
+https://stream.zeno.fm/av6xzace6ehvv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5e/Golden_Memories_logo.png/250px-Golden_Memories_logo.png" group-title="RADIO LIVE - 24/7", Golden Memories
+https://stream.zeno.fm/xg7mcgf1bf9uv
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/cjVn4dTaMG.jpg" group-title="RADIO LIVE - 24/7", Radio Murottal
+https://stream.zeno.fm/agv8w1xp1uhvv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pwfR4JY/kuduszal.png" group-title="TV YOUTUBE LIVE", LIVE SONG 24/7
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705328174/ei/zumkZZGkBZjC4t4Pm46CoAk/ip/2001%3A448a%3A6102%3A7b07%3A65cc%3A4917%3Acf70%3A1ef6/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-5CScnGltvVyNR9kzthV5whZUx3Dw-3TVfv_cvIN7c/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgaPX8kQT3QcdQx4VvA1bKxVsax3J6lu0idj4bfbluC_0CIQDAnxivdousttlu0aBWQ1sl0Ytthgi9lPfvHLigu_A4CQ%3D%3D/file/index.m3u8
