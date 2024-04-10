@@ -217,3 +217,5 @@ http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683099&extension=m
 #EXTINF:-0 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="Indonesia",RCTI
 http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
 
+EXTINF:0, group-title="INDONESIA",TRANS 7 HD auto
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
