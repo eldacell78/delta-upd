@@ -219,3 +219,5 @@ http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u
 
 #EXTINF:-0, group-title="Indonesia",TRANS 7 HD auto
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+#EXTINF:0, group-title="INDONESIA",TRANS 7 HD auto
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
