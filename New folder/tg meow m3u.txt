@@ -1,0 +1,21 @@
+QURAN TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
+MUSICA,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+POP MUSIK,https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
+DANGDUT TV,http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+MALEO,https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
+BOX HITS,https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+MEGASWARA TV,https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_mid.m3u8
+MEGASWARA TV,EXTINF:-1 tvg-logo=\"https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333\" group-title=\"INDONESIA\",MOLA HITS
+MEGASWARA TV,http://ventdelnord.tv:8080/mola/directe.m3u8
+IN WILD,https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+LOVE NATURE,http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
+CRIME TIME,https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+FASHION TV,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
+B ADVENTURE,http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunklist_w1684912150_b5256000_slen.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+ADVENTURE SPORTS,https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+NHKWORLD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
+ARIRANG,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+LIVE Stream 1,https://bcovlive-a.akamaihd.net/8dbe9fecaaf3445da9dc68101293d99c/ap-southeast-1/6271486521001/profile_1/chunklist.m3u8?&m=1
+LIVE Stream 2,https://bcovlive-a.akamaihd.net/81662517c7df42848bfa48818a71f1f4/ap-southeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1655259246~exp=9007200910000237~acl=/81662517c7df42848bfa48818a71f1f4/*/profile_2/chunklist.m3u8*~hmac=43ccd4dececc1ce36e1a3174c82963c87062b80181486d68083dbf5cf0ee6b47&m=1
+LIVE Stream 3,http://tvn10.xyz:80/vidio/indosiar.m3u8 

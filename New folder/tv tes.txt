@@ -1,0 +1,470 @@
+http://geegol.blogspot.com/2015/01/world-tv-database.html
+
+ AvRTv
+140315
+add Kid Channel and Hot Channel
+
+[GROUP]
+VER=140315
+SUM=50
+=========================================================================
+1=(01) Channel Nasional
+2=(02) Channel Lokal
+3=(03) Sport
+4=(04) Music
+5=(05) Movie
+6=(06) Kid's
+7=(07) Religi
+8=(09) Other
+50=(99) Adult
+49=(99) Adult 2 (Bikini)
+
+#########################################################################
+[(01) Channel Nasional]
+SUM=25
+1=ANTV
+2=B-Channel
+3=Berita Satu
+4=Global Tv
+5=Indosiar
+6=Kompas Tv
+7=Metro Tv
+8=MNC
+9=Net.
+10=RCTI
+11=SCTV
+12=Trans 7
+13=Trans Tv
+14=Tv One
+
+20=O Channel
+21=TVRI
+22=TV Edukasi
+23=Tv Tempo
+
+[(02) Channel Lokal]
+SUM=25
+1=A Channel
+2=Adi Tv
+3=ATV Malang
+4=Banten Tv
+5=Bali TV
+6=Binus Tv
+7=Cahaya Tv
+8=Dewata Tv
+9=ini Tv
+10=Kita Tv
+11=Kompas Tv Sby
+12=MNC News
+13=MNC Shop
+14=Mos Tv
+15=RBTV
+16=Sindo Tv
+17=TATV
+18=TV 9 Sby
+19=TV Link
+20=TVRI Olahraga
+21=TVRI Jkt
+22=TVRI 3 Budaya
+23=Tv 9 Lombok
+24=Bloomberg Tv
+25=MNC News
+
+[(03) Sport]
+SUM=20
+1=Bein 1
+2=Bein 2
+3=Liga Inggris
+4=BPL Ch 1
+5=BPL Ch 2
+6=BPL Ch 3
+7=BPL Ch 4
+8=BPL Ch 5
+9=Bola Score
+10=Fight
+11=Sky Sport 4
+12=B-Soccer
+13=Indostar
+14=MNC Sport 1
+15=MNC Sport 2
+16=Eurosport
+
+[(04) Music]
+SUM=11
+1=Mix Music
+2=Indo Music
+3=Dangdut Channel
+4=Mtv
+5=MTV Live
+6=For Music
+7=Kita Tv
+8=MNC Music
+9=Korean Music
+10=V Channel
+11=Victoria Music
+
+[(05) Movie]
+SUM=15
+1=AXN
+2=B-Cinema
+3=Celestial
+4=HBO Indonesia
+5=LSB Tv Movie
+6=LSB Drama
+7=More Tv
+8=Red Tv
+9=Star World
+10=Top Movie
+11=Victory Drama Tv
+12=Victoria Movie
+13=J'GO Live
+14=FOX Movie
+
+[(06) Kid's]
+SUM=15
+1=B-Anime
+2=Cartoonito
+3=Nikelodeon
+4=Animax
+5=Edirne Tv
+6=Global Tv
+7=J Kid Tv
+8=Karamel Tv
+9=Kids Tv
+10=Barbariki Tv
+11=Kartoon Klassics
+12=Jazeera Children
+13=FilmOn Kids
+14=Fun Little Kids
+15=Your Family Ent
+
+[(07) Religi]
+SUM=12
+1=Celebes Tv
+2=Mqtv
+3=Tauhid Tv
+4=Alif Tv
+5=JTv
+6=MNC Muslim
+7=Rodja Tv
+8=Al Quran Al kareem
+9=Allegro
+10=Arena
+11=Aljazeera
+
+[(09) Other]
+SUM=5
+1=Arirang Tv
+3=NHK Tv
+3=Nasa Tv
+4=Fashion Tv
+
+[(99) Adult]
+SUM=30
+1=The O online
+2=Spice Tv
+3=Sakura Tv
+4=Red One
+5=Playboy Tv
+6=Play 19
+7=Pink Tv
+8=PentHouse
+9=Live Ting
+10=Korean Porn
+11=J Hot Girl
+12=In Midnight
+13=Honey
+14=Girl 4 U
+15=Deligth Empire
+16=Butgo
+17=Pboy Tv
+18=HalloTV
+19=Babespotting
+20=Redlight Ch-1
+21=Redlight Ch-2
+22=Redlight Ch-3
+23=Hot Shots
+24=You Diva
+25=You Diva Lite
+26=You Diva Linier
+27=Bella Club
+28=Miami Tv
+29=Power Girl
+
+[(99) Adult 2 (Bikini)]
+SUM=18
+1=After Dark
+2=Bikini Beach
+3=Hooters Callender Girl
+4=Bikini TeeVee
+5=Party TeeVee
+6=Bikini Kitchen
+7=College Hotties
+8=Miami Tv
+9=Telos Digital
+10=Fitnrss Tv
+11=Bikini Down under
+12=Play Tv
+13=Miss Top otw
+14=HS Beach Babes
+15=Bollywood Bikini
+16=Bikini Hotties
+17=Ftv Bikini
+18=Ftv Hot
+19=Model in Mobile
+
+##############################################################################
+[Data]
+###### Tv Nasional
+
+ANTV #1=rtmp://202.129.216.27:1970/antv;antv1;1
+ANTV #2=rtmp://180.250.29.21/jhos;antv;2
+ANTV #3=rtmp://119.110.77.181/liveorigin;ch009.stream;1
+ANTV #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/antv2_240p/layer.m3u8@vlc
+ANTV #B=http://202.75.23.50/live/ch7/01.m3u8@vlc
+ANTV #C=http://cdnjkt.mivo.tv:1935/mivotvjkt/antv2_240p/chunklist.m3u8@vlc
+
+B-Channel #1=rtmp://118.97.167.19/jhos;bchannel;2
+
+Berita Satu #1=rtmp://180.250.29.21/jhos;beritasatu;2
+Berita Satu #A=http://202.75.23.50/live/ch13/01.m3u8@vlc
+
+Global Tv #1=rtmp://edge.okeinfo.net/live/mncoke2_256.stream;mncoke2_256.stream;1
+Global Tv #2=rtmp://edge.okeinfo.net/live/mncoke2_512.stream;mncoke2_512.stream;1
+Global Tv #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/globaltv2_240p/layer.m3u8
+Global Tv #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/globaltv2_240p/chunklist.m3u8@vlc
+
+Indosiar #1=rtmp://118.97.167.19/jhos;indosiar;2
+Indosiar #2=rtmp://119.110.77.181/liveorigin;ch008.stream;1
+Indosiar #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/indosiar2_240p/layer.m3u8@vlc
+Indosiar #B=http://202.75.23.50/live/ch8/01.m3u8@vlc
+Indosiar #C=http://cdnjkt.mivo.tv:1935/mivotvjkt/indosiar2_240p/chunklist.m3u8@vlc
+
+Kompas Tv #1=rtmp://202.137.11.52/jakarta;offair.sdp;1
+Kompas Tv #2=rtmp://118.97.167.19/jhos;kompastv;2
+Kompas Tv #3=rtmp://119.110.77.181/liveorigin;ch017.stream;1
+Kompas Tv #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/kompastv2_240p/layer.m3u8
+Kompas Tv #B=http://202.75.23.50/live/ch9/01.m3u8
+Kompas Tv #C=http://cdnjkt.mivo.tv:1935/mivotvjkt/kompastv2_240p/chunklist.m3u8@vlc
+
+Metro Tv #1=rtmp://180.250.29.21/jhos;metrotv;2
+Metro Tv #2=rtmp://119.110.77.181/liveorigin;ch005.stream;1
+Metro Tv #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/metrotv2_240p/layer.m3u8@vlc
+Metro Tv #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/metrotv2_240p/chunklist.m3u8@vlc
+
+MNC #1=rtmp://edge.okeinfo.net/live/mncoke3_256.stream;mncoke3_256.stream;2
+MNC #2=rtmp://edge.okeinfo.net/live/mncoke3_512.stream;mncoke3_512.stream;2
+MNC #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/mnctv2_240p/layer.m3u8@vlc
+MNC #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/mnctv2_240p/chunklist.m3u8@vlc
+
+NET. #1=rtmp://stream5.kelir.tv/netmedia/_definst_;mp4:livetrial.stream_360p;2
+
+RCTI #1=rtmp://edge.okeinfo.net:1935/live/mncoke1_256.stream;mncoke1_256.stream;2
+RCTI #2=rtmp://edge.okeinfo.net:1935/live/mncoke1_512.stream;mncoke1_512.stream;2
+RCTI #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/rcti2_240p/layer.m3u8@vlc
+RCTI #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/rcti2_240p/chunklist.m3u8@vlc
+
+SCTV #1=rtmp://180.250.29.21/jhos;sctv;2
+SCTV #2=rtmp://202.58.124.200/sclive;sclive_256;2
+SCTV #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/sctv2_240p/layer.m3u8@vlc
+SCTV #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/sctv2_240p/chunklist.m3u8@vlc
+
+Trans 7 #1=rtmp://live.mytrans.com/live;trans7.sdp;17
+Trans 7 #2=rtmp://119.110.77.181/liveorigin;ch002.stream;2
+Trans 7 #3=rtmp://live.mytrans.com/live;trans7@5.sdp;17
+Trans 7 #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/trans72_240p/layer.m3u8@vlc
+Trans 7 #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/trans72_240p/chunklist.m3u8@vlc
+
+Trans Tv #1=rtmp://live.mytrans.com/live;transtv.sdp;17
+Trans Tv #2=rtmp://119.110.77.181/liveorigin;ch003.stream;1
+Trans Tv #3=rtmp://live.mytrans.com/live;transtv@5.sdp;17
+Trans Tv #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/transtv2_240p/layer.m3u8@vlc
+Trans Tv #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/transtv2_240p/chunklist.m3u8@vlc
+
+Tv One #1=rtmp://180.250.29.21/jhos;tvone;2
+Tv One #2=rtmp://202.129.216.27:1970/tvone;tvone3;2
+Tv One #3=rtmp://119.110.77.181/liveorigin;ch001.stream;1
+Tv One #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/tvone2_240p/layer.m3u8@vlc
+Tv One #B=http://cdnjkt.mivo.tv:1935/mivotvjkt/tvone2_240p/chunklist.m3u8@vlc
+
+O Channel #1=rtmp://180.250.29.21/jhos;ochannel;2
+Tv Tempo #1=rtmp://118.97.167.19/jhos;tempotv;2
+TVRI #1=rtmp://180.250.29.21/jhos;tvri;2
+
+TV Edukasi #1=rtmp://180.250.29.21/jhos;tvedukasi;2
+TV Edukasi #1=rtmp://118.98.221.131/live;tvedukasi2_3_35;2
+TV Edukasi #1=rtmp://118.98.221.131/live;tvedukasi_3_33;2
+
+
+## Lokal Indonesia
+A Channel #1=rtmp://videostream.indostreamserver.com/achanneltv;live;2
+Adi Tv #1=rtmp://flash1.broadcastindo.net:80/aditv;aditv;2
+ATV Malang #1=rtmp://202.137.11.52/malang;offair.sdp;2
+Banten Tv #1=rtmp://flash1.broadcastindo.net/bantentv;stream.sdp;2
+Bali TV #1=rtmp://180.250.29.21/jhos;balitv;2
+Binus Tv #1=rtmp://202.58.181.205/binustv;binustv;2
+Cahaya Tv #1=rtmp://cahayabanten.tv/live;tv3;1
+Dewata Tv #1=rtmp://202.137.11.52/denpasar;offair.sdp;1
+ini Tv #1=rtmp://streaming.initv.net/live;Stream1;2
+Kita Tv #1=rtmp://kitatv.com/live;myStream;2
+Kompas Tv Sby #1=rtmp://202.137.11.52/surabaya;offair.sdp;1
+MNC News #1=rtmp://edge.okeinfo.net/live;mncoke5_512.stream;1
+MNC Shop #1=rtmp://edge.okeinfo.net/live;mncoke10_512.stream;1
+Mos Tv #1=rtmp://202.137.11.52/jakarta;offair.sdp;1
+RBTV #1=rtmp://202.137.11.52/yogyakarta;offair.sdp;1
+Sindo Tv #1=rtmp://edge.okeinfo.net/live;mncoke4_512.stream;1
+TATV #1=rtmp://flash1.broadcastindo.net/tatv;live.sdp;2
+TV 9 Sby #1=rtmp://videostream.indostreamserver.com/tv9;live;1
+TV Link #1=rtmp://videostream.tvlink.co.id/mystream;live1;1
+TVRI Olahraga #1=rtmp://live.stream.telin.swiftserve.com/live/tvri;stream-04;2
+TVRI Jkt #1=rtmp://live.stream.telin.swiftserve.com/live/tvri;stream-02;2
+TVRI 3 Budaya #=rtmp://live.stream.telin.swiftserve.com/live/tvri;stream-03;2
+Tv 9 Lombok #1=rtmp://video2.onlivestreaming.net/tv9;live.sdp;2
+Bloomberg Tv #1=rtmp://202.158.26.115/live;btvi;2
+MNC News #1=rtmp://edge.okeinfo.net:1935/live;mncoke5_256.stream;2
+
+### Sport
+Bein 1 #A=http://202.75.23.37:8800/live/ch18/01.m3u8@vlc
+Bein 2 #1=http://www.winstar.tv/mediaplayer/player.swf?netstreambasepath=http://futuboxhd.com/&autostart=true&streamer=rtmp://119.235.249.58/winstartv2?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMi8yMDEzIDM6Mjk6MDYgUE0maGFzaF92YWx1ZT1WY3pDVHhKVEgxaG42ZGlqNVRrOWVnPT0mdmFsaWRtaW51dGVzPTIw/&provider=rtmp&file=live&provider=rtmp&backcolor=000000&frontcolor=969595&lightcolor=969595&skin=&autostart=true&stretching=exactfit&controlbar=over&image=@web
+Bein 2 #A=http://202.75.23.37:8800/live/ch19/01.m3u8@vlc
+Liga Inggris #1=rtmp://188.0.226.100/tv;b1livesq92m;2
+BPL Ch 1 #1=rtmp://111.223.33.105:39245/3SDdeeDweSwOdIdw2rcHDwwcDiI;PremieRLeague_01;2
+BPL Ch 2 #1=rtmp://111.223.33.105:39245/3SDdeeDweSwOdIdw2rcHDwwcDiI;PremieRLeague_02;2
+BPL Ch 3 #1=rtmp://202.170.127.28:51593/1jnfivkderngoessd-hd;PremieRaGuel_3;2
+BPL Ch 4 #1=rtmp://202.170.127.28:51593/1jnfivkderngoessd-hd;PremieRaGuel_4;2
+BPL Ch 5 #1=rtmp://202.170.127.28:51593/1jnfivkderngoessd-hd;PremieRaGuel_5;2
+Bola Score #1=rtmp://103.5.45.180/myLiveApp/bolaskor;bolaskor_streaming;2
+Fight #A=http://202.75.23.37:8800/live/ch20/01.m3u8@url
+Sky Sport 4 #1=rtmp://188.0.226.102/lub;skysp4;2
+B-Soccer #1=rtmp://119.110.77.181/liveorigin;ch035.stream;2
+Indostar #1=rtmp://119.235.249.58:1935/indostartv;live;2
+MNC Sport 1 #1=rtmp://edge.okeinfo.net/live;mncoke12_512.stream;2
+MNC Sport 2 #2=rtmp://edge.okeinfo.net/live;mncoke13_512.stream;2
+Eurosport #A=http://202.75.23.37:8800/live/ch21/01.m3u8@vlc
+
+###Music
+Mix Music #A=http://202.75.23.49/live/ch1/01.m3u8@vlc
+Indo Music #A=http://202.75.23.49/live/ch3/live.m3u8@vlc
+Dangdut Channel #A=http://202.75.23.49/live/ch3/stream1-streamPlaylist.m3u8@vlc
+Mtv #A=http://202.75.23.35:8800/live/ch42/01.m3u8@vlc
+MTV Live #A=http://202.75.23.37:8800/live/ch50/01.m3u8@vlc
+For Music #1=rtmp://wowza1.top-ix.org/quartaretetv;formusicweb;2
+Kita Tv #1=rtmp://www.kitatv.com/live;myStream;2
+MNC Music #1=rtmp://edge.okeinfo.net/live;mncoke9_512.stream;2
+Korean Music #1=rtmp://lm01.everyon.tv/ptv;pld71;2
+V Channel #1=rtmp://victorynet.tv:1935/live;mvvintx01;2
+Victoria Music #1=rtmp://victorynet.tv:1934/live;mvclipx01;2
+
+### Movie
+AXN #1=rtmp://victorynet.tv/live;mvaxnx01;2
+B-Cinema #1=rtmp://119.110.77.181/liveorigin;ch128.stream;2
+Celestial #1=rtmp://victorynet.tv/live;mvcelesx01;2
+HBO Indonesia #1=rtmp://victorynet.tv/live;mvhbox01;2
+LSB Tv Movie #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/lmovie2_240/player.m3u8@vlc
+LSB Drama #A=http://cdnjkt.mivo.tv:1935/mivotvjkt/ldrama2_240p/layer.m3u8@vlc
+More Tv #1=rtmp://119.110.77.181/liveorigin;ch130.stream;2
+Red Tv #1=rtmp://victorynet.tv/live;mvredx01;2
+Star World #1=rtmp://victorynet.tv/live;mvstarworldx01;2
+Top Movie #1=rtmp://lm01.everyon.tv/ptv;pld513;2
+Victory Drama Tv #1=rtmp://victorynet.tv:1934/live;mvdramax01;2
+Victoria Movie #1=rtmp://victorynet.tv:1934/live;mvmoviex01;2
+J'GO Live #A=http://202.75.23.49/live/ch4/01.m3u8@vlc
+FOX Movie #1=rtmp://110.5.111.166/live;mvstarx01;2
+
+### Kid's
+B-Anime #1=rtmp://119.110.77.181/liveorigin;ch006.stream;1
+Cartoonito #A=http://202.75.23.36:8800/live/ch49/01.m3u8@vlc
+Nikelodeon #A=http://202.75.23.36:8800/live/ch43/01.m3u8@vlc
+Animax #1=https://cdn.livestream.com/grid/LSPlayer.swf?channel=animaxinternational@web
+Barbariki Tv #1=rtmp://planetaonline.cdnvideo.ru:443/rr;channel_6;2
+Edirne Tv #1=rtmp://radyo.sistemhost.com/etv;live;2
+Global Tv #1=rtmp://unirtmp.tulix.tv/globaltv7;myStream.sdp;2
+J Kid Tv #1=rtmp://111.118.21.75/ptv2;phd169;2
+Karamel Tv #1=rtmp://strm-3.tr.medianova.tv/karamel;karamel;2
+Kids Tv #1=rtmp://119.110.77.181/liveorigin;ch078.stream;2
+Kartoon Klassics #1=rtmp://live77.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbee09280f8f339559c8234019ce76c938b69637277663f777bf463cb1a8f5092d7d921bbfec0085b27c27f33042b91775a46d132f2bf777a98ee875f9e0b888057382e76cdfad2026222ba45112613180bf121a59ef243f664864f2307ae65b30b10053d5aa508145202e8e6d16681f0ea1030495e1a08548b644a128ea7f8f57cf67f3b2874862b2492ee6e236931c16a;793.low.stream;2
+Jazeera Children #1=rtmp://204.107.27.248:1935/live/?id=0ad5aac39bb13fbe9e366e897d002c8995f84bfe0fa36184d4058262a9b28a4f46b1c983d82427c9aef031fad2237b3b70492d29c85b61a327e4470870adc1b8634c611d40f85d401f7fb28554439a1db31d185ee0873d241a9208308419736528e621697bea9abe1b7e0d6c4e089a8ca4a24481d004591d5aa74b5a90ce7e5d4fa2b524df98eeec9c97ddc54459ccd655cf2ae4a780c53c;1814.low.stream;2
+FilmOn Kids #1=rtmp://live54.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe3e868018877d3a67493576e0c56f1de19d5ee0618e504bd4325051ee839ec16bad50c8b175fda8319e3941ce1115aeb0d43cf744a2424b97621e31a20031d7d4d635829e8fe93a304b8cb06f6b2ea3cba68bc26a2b80317cd194c2e7e4354a7fe082dcdfdb581481cc9b159aec5472575408139ab7c14fd8addbdbff124f557e68ee1cac17c456bc074777b89bc2cbf6;7.low.stream;2
+Fun Little Kids #1=rtmp://live54.la3.edge.filmon.com/live/?id=0ad5aac39bb13fbed4ef09361ec2a4c5ca3a0af2aed4c7b53c1ba797c9da4556c18072efdf2f1fb3c75ee7281650f3b4c801ee3a60224b58faa743b5b34c480c658049af5a379a3c92238beb67a5b6f5fcea4d51753fb147a137f2779f6e606b0f5b5c73334890fa7a877110d46b18142f6db96da2c1970cdac2fbe1cbedc7c7e902c7063152ee363aabd99ed56c147b9d16cafa797fde86;1861.low.stream;2
+Your Family Ent #1=rtmp://live305.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbeff4732744a2f8d6546da6d800ec562b36cafe0605e6cfbd0e87133f8f729115c83e40d3516c2b39baaca7d001c18907d6da7e2c9119ece372b7d8632e001b773f4f2555bfe3299b28a06c4b8f0fc538561068fd76bd9cb16dfd68c8f46fdbd829e0c165612d6d05740bb3c5098edf9104c15053e9f75694f1a46a200f21c9d7d40a82e1b71c55d3c8424793b552f3a63;2734.low.stream;2
+
+### Religi
+Celebes Tv #1=rtmp://118.97.167.19/jhos;celebestv;2
+Mqtv #1=rtmp://180.250.29.21/jhos;mqtv;2
+Tauhid Tv #1=rtmp://180.250.29.21/jhos;tauhidtv;2
+Alif Tv #1=rtmp://180.250.29.21/jhos;aliftv;2
+JTv #1=rtmp://180.250.29.21/jhos;jtv;2
+MNC Muslim #1=rtmp://edge.okeinfo.net:1935/live;mncoke6_256.stream;2
+Rodja Tv #1=rtmp://rodjatv.com/live;rodja;2
+Al Quran Al kareem #1=rtmp://180.250.29.21/jhos;alquran;2
+Allegro #1=rtmp://118.97.167.19/jhos;allegro;2
+Arena #1=rtmp://118.97.167.19/jhos;arena;2
+Aljazeera #=rtmp://118.97.167.19/jhos;aljazeera;2
+
+### Other
+Arirang Tv #1=rtmp://lm01.everyon.tv/ptv;pld36;2
+NHK Tv #1=rtmp://fdc-ord-cdn-2.srv.fivecool.net/nhkw;gwm;2
+Nasa Tv #1=rtmp://119.110.77.181/liveorigin;ch052.stream;2
+Fashion Tv #1=rtmp://46.249.213.87:80/rtmplive/broadcast;fashiontv-tablet.3gp;2
+Fashion Tv #2=rtmp://live300.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe295ee49f4c803f993c9f1d3c083fd4b0fa102ade7c05c837fb2fcb042109b46c3260aa9f115614cec8b43550e91b3a1f61d38ba40293c34b3800b116e99a481fcc1cf89ddd458b92f851be5c4cdcb1298b6a666ba865f6936f10afe87f5a254d2317a9c49bfee0069c17c70c72b3c9920aaad075df31ef9e3afdf55047c624672bbfad7b602dcc166e5145ebfb7e7011;21.low.stream;2
+
+
+### Adult
+The O online #1=rtmp://lm03.everyon.tv/ptv3;pld77;17
+Spice Tv #1=rtmp://lm03.everyon.tv/ptv3;pld497;17
+Sakura Tv #1=rtmp://111.118.21.77/ptv3;pld61;17
+Red One #1=rtmp://lm02.everyon.tv/ptv2;pld60;17
+Playboy Tv #1=rtmp://lm03.everyon.tv/ptv3;pld499;17
+Play 19 #1=rtmp://lm03.everyon.tv/ptv3;pld769;17
+Pink Tv #1=rtmp://lm02.everyon.tv/ptv2;pld62;17
+PentHouse #1=rtmp://lm04.everyon.tv/ptv4;pld927;17
+Live Ting #1=rtmp://lm02.everyon.tv/ptv2;pld64;17
+Korean Porn #1=rtmp://lm03.everyon.tv/ptv3;pld61;17
+J Hot Girl #1=rtmp://lm02.everyon.tv/ptv2;pld59;17
+In Midnight #1=rtmp://lm02.everyon.tv/ptv2;pld766;17
+Honey #1=rtmp://lm04.everyon.tv/ptv4;pld928;17
+Girl 4 U #1=rtmp://lm01.everyon.tv/ptv;pld501;17
+Deligth Empire #1=rtmp://lm02.everyon.tv/ptv2;pld63;17
+Butgo #1=rtmp://lm01.everyon.tv/ptv;pld772;17
+Pboy Tv #1=rtmp://edge-05.livestreamcast.org:1935/pboytv;pboytv;5
+HalloTV #1=rtmp://83.169.58.38:1935/live;HalloTV1;5
+HalloTV #2=rtmp://83.169.58.38:1935/live;HalloTV2;5
+HalloTV #3=rtmp://83.169.58.38:1935/live;HalloTV3;5
+
+Babespotting Tv #A=http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr649k.m3u8@vlc
+Babespotting Tv #B=http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp.m3u8@vlc
+HS Beach Babes #A=http://46.249.213.93/iPhone/broadcast/hotshotsbeachbabes-tablet.3gp/hotshotsbeachbabes-tablet.3gp-mr48k.m3u8@vlc
+Redlight Ch-1 #A=http://46.249.213.87/iPhone/broadcast/redlight-1-tablet.3gp/redlight-1-tablet.3gp-mr398k.m3u8@vlc
+Redlight Ch-2 #A=http://46.249.213.87/iPhone/broadcast/redlight-2-tablet.3gp/redlight-2-tablet.3gp-mr648k.m3u8@vlc
+Redlight Ch-2 #B=rtsp://217.146.95.166:554/live/ch24yqcif.3gp@vlc
+Redlight Ch-3 #A=rtsp://217.146.95.166:554/live/ch24yqvga.3gp@vlc
+Hot Shots #A=http://46.249.213.93/iPhone/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr646k.m3u8@vlc
+You Diva #A=http://46.249.213.87/iPhone/broadcast/youdiva-tablet.3gp/youdiva-tablet.3gp-mr48k.m3u8@vlc
+You Diva Lite #A=rtsp://217.146.95.166:554/live/ch36yqcif.3gp@vlc
+You Diva Linier #A=rtsp://217.146.95.166:554/live/ch37yqcif.3gp@vlc
+Bella Club #A=rtsp://217.146.95.166:554/live/ch41yqcif.3gp@vlc
+Bella Club #B=http://46.249.213.93/iPhone/broadcast/bellaclub-tablet.3gp.m3u8@vlc
+Bollywood Bikini #A=http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp.m3u8@vlc
+Miami Tv #A=http://46.249.213.93/iPhone/broadcast/ftvbikini-tablet.3gp/ftvbikini-tablet.3gp-mr497k.m3u8@vlc
+Power Girl #A=http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp.m3u8@vlc
+
+### (99) Bikini Adult
+After Dark #1=rtmp://live54.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbead53505e8a9f5120c555ff90627d76f94c41b7a211ae5c60ae0019840d5b24ea8fa511401eb3783142a7cb4db0edeef34887f5f0e21ae371613a5c16fc3a3a6861f542283466900fd4158627a8a77018fe6e73a4b50e48115cd7ce3b34358a32b67c157a03f62cdbb01d774555fb0f37c57f65068281254c2c45af663ac1a0b653bebdd7144a73246e82d404488f04c6;345.low.stream;2
+Bikini Beach #1=rtmp://live305.edge.filmon.com/live/?id=0ad5aac39bb13fbef2feba1d0770688376fd3f9b670c05401cbe203fd5f08e070c3c8b2c419005a91e1d1668156832f9856fb9b5c428583d908cc5c6951996172b6c6c41b8ce53ee08b267be2b8c06aa249e3695f6ed2c6e456cc55c5c633bb1fd22fe78f2e44620f8bb7a929623995923bc59fc1eb783e3476c9a484fb7172dc19b47f8730c2e36f2e695752665e9615dd9568cfd0f682b;2726.low.stream;2
+Hooters Callender Girl #1= #1=rtmp://live54.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe6cf13cf99a17b90bc2f5ad34ea9df32e54eed02991f2930acacc4ab999e712270b84165239a671ac157ea300ba78e2f5e252b0bee2c5e1c5da19fbeff6cba1a650222fe03f92c8789521f3d429f888fb6a8e68cbc7b0c7fff3307e0f411da1d910563e1984718ccfc536b8dcc89da585008d1d3a2a414f665fffdbac135369ee6a0c37f52d060808d3dcd264b9b9d05f;1970.low.stream;2
+Bikini TeeVee #1=rtmp://live77.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe67693551c5b6d186c041159b8b871ae88829fd0814d6afdf8d56757ca25924d43a7159cb97737350b6c7c2b3715bb1510d5c53384b806dfd12ad0daba41d5e73ac42d5cedd30ed8d2b96b40e144c049944b11c2bb1e1557ce10f8cd21e6c4a2f2481d03d8ad2fd4a788457151e20d2ca37da3900c2d525547888b7549fbbd5114e5995dc84979ee085e17d7829c0c0f2;380.low.stream;2
+Party TeeVee #1=rtmp://live58.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe67693551c5b6d186a9fdfaa7e5d4cbe1fccf14172d84b3cf9a533e5259ce085e565ff5080543a0e5ed63ceef91b981508da7d76ff92e0c17d9e4108b9cecc00a2098171ca71935c4ad30616ad172ae79d9f31fe7aacd920296aa3e9f64dfe8406a646f9eed5b5395881ce90b95a6cd1c3a8ffa5c83e20a9ed38939609f094abb35bf83a8296baaf9ce0463acb287ef8a;790.low.stream;2
+Bikini Kitchen #1=rtmp://live77.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbed91ec862af938f62f4648cf607bec4450581039476d3904b5cfb536474cc3dba739a1c9872dc31d0c53d3b69d7ad023378df72f9ba0c9c408802745d28ee3da4d3b6a8d18cd06eb900259b7b27aaba19f16abba6d5ad398f9c8accb32a39cb0597fb78d4a9d90e89a76cf99b64458844668b294db784a783a60fcc9501b2f7efbc897a2d42e7a0cdfcedeaad4f56f701;380.low.stream;2
+College Hotties #1=rtmp://live54.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbed91ec862af938f62c0fc0190b390538211bb5d41b514416b79fbc0a11e240bb9633b53147ec25ab417521b4eec80cfa74a71814f17bfb206fec21ac467bf61155199bd2e54554a4fe3d1f6c160f22a5c8befa25cb13088ddfdd5b649bdaa942e54661db3dbfc3b60e445d8265a6956cf75f10d9a82f9667e4749c488477e193117e2874e8b77f447b42a0cf4cb9cc53f;1858.high.stream;2
+Miami Tv #1=rtmp://live65.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbef472c810b13ca7178c0690ecdceb449193bc1daa452816b16c8057b9642746cbfc83bc61a3d45d5a0981723cff6b7f2e111eade712212632dba3edb1cf4040490f2be1c942676b6fc1331c8b2a7198fe3f78f1b2959f3b4d5d876d17e530105a75804093435ab05befcc1949a03e307ce54af8b619bb539d567ce1bc23c415cf653233aa5fec7f77bafaaa9390faa55f;866.high.stream;2
+Telos Digital #1=rtmp://live55.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbefaff826165f417b86faccc766f069c409777242d77aa7d8cff1640d5ed2829395e5b8d3d3a97c3990ddb680fc08b57804b61f9ffdd979e657ad9dba186f93614e375042fdbd528d93026dd63c6717b62a3fd8b082ee2805b6237786ed2a23f03ad7496b8b361a1005a0fda038f0a5f3c68acec79d30f40a9c5b19f276473e0b9226eca519dafc080daa3f706f7ce245e;1867.high.stream;2
+Fitnrss Tv #1=rtmp://live303.edge.filmon.com/live/?id=0ad5aac39bb13fbee7271784af78e7501feb33bab17f92e434a62b67abb384ea393e6b7d499ea6fba8535a0ba0abef87fbc3b779ae123d16b052ce2ae3ea0e473b7b080190e9ff74e5fe9369a614584e6999077dca433726b1c586f034c2979623df40c45ceab5c9f14b1453ef5be3e706312c5e41a6d76e3d04c99f585068b531abb4f993e549ae45cb5d6b83d7ec11374e88c78006ff5e;1123.high.stream;2
+Bikini Down under #1=rtmp://live54.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbee52187564ce74a0340cd7dc4dcc3889883abeb683d900a0ac23e780520216c4388613d29669875abb8c41fb76fd15a9611424d4fdd9762f18dc26caa2ed485d3a9b921f876c7e486e58bf3700fc7d322c9f06bb380360df2b056be7af7919e5634c6d1392a11525f2ad28e2882e9c349dee281c836a2218f8feb8b75dd1f72fba673040e0e0e655a6893bf7a92a6cb67;2819.low.stream;2
+Play Tv #1=rtmp://live64.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe9ab5bbb7d0c9066adea2ccc7ca015640f83268b066caaa9ed7bf72a92cf92ab17e4273013283de3613650bfd4a7f7d140b7b4cb46b4fc0b9fc8534199d589afdc7859ada42a1d65759de5b50db96c253444785a3daf84bc0be5d186080165da5a4d3656add8511fbb7de8bcda4d2ebca8bacdd7db5967fd183d879534c93c2f74a041e562a76190f6de1ba308df4e6fe;2684.low.stream;2
+Miss Top otw #1=rtmp://live54.la3.edge.filmon.com:1935/live/?id=0ad5aac39bb13fbe0e0be16b80a4aa0f5386f3054a485f5624603f4d1173970ab69e506f276f7d6f18e316bb531b4243edf0ae36b727333e99f1d421079e324f0f823de695a1874ffddcad72007fc55b10b2ccf55ab69abf83e81be49a1c8c00364f901ed333a4cb46e489d762b77cf5fb34414dad1c2372c7e41a52a477d1c1fe92f7a0cf0c7f9f92e8720dd0e7c986e93990d82442f391;2638.low.stream;2
+Bikini Hotties #A=http://46.249.213.93/iPhone/broadcast/bikinihotties-tablet.3gp/bikinihotties-tablet.3gp-mr647k.m3u8@vlc
+Ftv Bikini #A=http://46.249.213.93/iPhone/broadcast/ftvbikini-tablet.3gp/ftvbikini-tablet.3gp-mr497k.m3u8@vlc
+Ftv Hot #A=http://46.249.213.93/iPhone/broadcast/ftvhot-tablet.3gp/ftvhot-tablet.3gp-mr648k.m3u8@vlc
+Model in Mobile #A=http://46.249.213.93/iPhone/broadcast/hot100-tablet.3gp.m3u8@vlc
+
+-Akhir- 

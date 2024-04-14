@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   India   <=======" tvg-logo="" group-title="",=======>   India   <=======
+#EXTINF:-1 tvg-ID="Music India" tvg-name="IN: MUSIC INDIA HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/MUSICINDIAHD.png" group-title="India",IN: MUSIC INDIA HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/316
+#EXTINF:-1 tvg-ID="MTV" tvg-name="IN: MTV India" tvg-logo="http://iptvreseller.xyz:1234/Anh/mtv.png" group-title="India",IN: MTV India
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/804
+#EXTINF:-1 tvg-ID="Zee TV HD" tvg-name="IN: Zee tv Uk" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeetv.png" group-title="India",IN: Zee tv Uk
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/871
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zee Living" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeLiving.png" group-title="India",IN: Zee Living
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/874
+#EXTINF:-1 tvg-ID="NDTV 24x7" tvg-name="IN: NDTV 24X7" tvg-logo="http://iptvreseller.xyz:1234/Anh/NDTV24X7.png" group-title="India",IN: NDTV 24X7
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/885
+#EXTINF:-1 tvg-ID="Zing" tvg-name="IN: Zing TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/zing.png" group-title="India",IN: Zing TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1050
+#EXTINF:-1 tvg-ID="" tvg-name="IN: Zindagi" tvg-logo="http://iptvreseller.xyz:1234/Anh/Zindagi.png" group-title="India",IN: Zindagi
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1051
+#EXTINF:-1 tvg-ID="Zee TV" tvg-name="IN: ZEE TV ME" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeetv.png" group-title="India",IN: ZEE TV ME
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1053
+#EXTINF:-1 tvg-ID="Zee Classic" tvg-name="IN: Zee Classic" tvg-logo="" group-title="India",IN: Zee Classic
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/881
+#EXTINF:-1 tvg-ID="Zee Cinema" tvg-name="IN: ZEE Cinema" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeecinema.png" group-title="India",IN: ZEE Cinema
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1055
+#EXTINF:-1 tvg-ID="" tvg-name="IN: ZEE Bollywood HD" tvg-logo="http://iptvreseller.xyz:1234/Anh/zeeBollywoodHD.png" group-title="India",IN: ZEE Bollywood HD
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/1057
+
+#EXTINF:-1 tvg-ID="" tvg-name="=======>   Thai-Lan   <=======" tvg-logo="" group-title="",=======>   Thai-Lan   <=======
+#EXTINF:-1 tvg-ID="" tvg-name="TH: Muslim TV" tvg-logo="http://iptvreseller.xyz:1234/Anh/MuslimTV.png" group-title="Thailand",TH: Muslim TV
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2230
+#EXTINF:-1 tvg-ID="" tvg-name="TH: MCOT Kids & Family" tvg-logo="http://iptvreseller.xyz:1234/Anh/MCOTkidsandfamily.png" group-title="Thailand",TH: MCOT Kids & Family
+http://bestbuyiptv.link:6969/azkanet04@gmail.com/THX93g2fWD/2418
+

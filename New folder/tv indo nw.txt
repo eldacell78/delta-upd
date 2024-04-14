@@ -1,0 +1,15 @@
+https://www.right.com.cn/forum/forum.php?mod=viewthread&action=printable&tid=825151&forcemobile=1
+
+#EXTM3U
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",Berita Satu
+http://45.126.83.51/uq2663/h/h41/index1.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",Diva HD
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",Diva
+http://210.210.155.35/uq2663/h/h11/01.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="Indonesia",Diva fhd
+http://45.126.83.51/uq2663/h/h11/index1.m3u8
+
