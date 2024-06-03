@@ -1,0 +1,74 @@
+#EXTM3U
+
+===TV NASIONAL===
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_big1.png" group-title="TV NASIONAL",TRANS TV
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="NASIONAL", MNCTV
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1582369069~exp=9007200837110060~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_1/chunklist.m3u8*~hmac=d368274b351995408b588c80d5c71de799a9f554f7a78be93c4b495e41f72bb8
+
+===TV DAERAH===
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pktv-kaltim-id.png" group-title="TV DAERAH",PKT TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bandung_tv_id.png" group-title="TV DAERAH",BANDUNG TV
+http://streaming.bandungtv.tv/360p/
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/duta_tv_id.png" group-title="TV DAERAH",DUTA TV
+https://cdn.siar.us/player/?link=dutatv.siar.us/dutatv/live
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/elshinta-tv-id.png" group-title="TV DAERAH",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/huma-betang-tv-id.png" group-title="TV DAERAH",HUMABETANG TV KALTENG
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/izzah-tv-id.png" group-title="TV DAERAH",IZZAH TV JAMBI
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jambi_tv_id.png" group-title="TV DAERAH",JAMBI TV
+http://stream.jambitv.co.id/
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jek-tv-id.png" group-title="TV DAERAH",JEK TV
+http://182.16.186.3:1935/ch14/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jogja-istimewa-tv-id.png" group-title="TV DAERAH",JITV
+https://jitv.jogjaprov.go.id/
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani_tv_id.png" group-title="TV DAERAH",MADANI TV
+https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png" group-title="TV DAERAH",MADU TV JATIM
+https://cdn.siar.us/player/?link=re1.siar.us/madutv/hd720&amp;autoplay=no
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/radar-cirebon-tv-id.png" group-title="TV DAERAH",RADAR TV CIREBON
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/riau-tv-id.png" group-title="TV DAERAH",RIAU TV
+#rtmp://122.248.43.138:1935/ch11/myStream
+#rtmp://122.248.43.138/ch11/myStream
+#https://www.122.248.43.138:1935/ch11/myStream/playlist.m3u8
+https://www.103.30.246.47/rtv/live/playlist.m3u8
+
+===TV RELIGIOUS===
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rodja-tv-id.png" group-title="TV RELEGIOUS",RODJA TV
+https://rodjatv.com/rodjatv/live.m3u8
+
+===RADIO===
+#EXTINF:-1 tvg-logo="http://photos.wikimapia.org/p/00/03/77/01/15_big.jpg" group-title="RADIO",MADU RADIO JATIM
+https://a3.siar.us/listen/mdsfm/stream
+
+#EXTINF:-1 tvg-logo="http://photos.wikimapia.org/p/00/03/77/01/15_big.jpg" group-title="RADIO",RODJA RADIO
+https://radioislamindonesia.com/rodjatv.mp3.m3u
+
+===TV LUAR===
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-4-teen-quran-kw.png" group-title="TV LUAR",KUWAIT TV QUR'AN
+https://player.twitch.tv/?channel=ch4teenquran&parent=www.lyngsat.com
+
+
+
+
+
+
+
+
