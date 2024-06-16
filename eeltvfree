@@ -215,7 +215,8 @@ http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683099&extension=m
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
 #https://github.com/kusnadipepenk/campeign/blob/master/rcti.m3u8
 #EXTINF:-0 tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/3/31/TRANS_7.png" group-title="Indonesia",RCTI
-http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
+#http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000042/index1024.m3u8
+https://list.iptvcat.com/my_list/s/b8fe7c4408ca54c30a6101352f5e9fe1.m3u8
 
 #EXTINF:-0, group-title="Indonesia",TRANS 7 HD auto
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
