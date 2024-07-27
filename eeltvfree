@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU BARAT",Lagu Barat Terpopuler Januari 2020
 https://archive.org/download/lagubaratterpopulerjanuari2020/Lagu%20Barat%20Terpopuler%20januari%202020.mp4
+=======Film========
+EXTINF:-1 tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p2/01/2024/01/16/IMG_20240115_200114-1451233357.jpg" group-title="Film", Pasutri Gaje 2024
+https://file3.gofile.io/download/web/a835da39-ca0a-4180-ac50-df6c490e3983/NGEFILM21.PW.Pasutri.Gaje.2024.WEB-DL.720p.mp4
 ================= LAGU MELAYU =================
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VNKbvghx/HUJAN.jpg" group-title="LAGU MELAYU",Nafas Cinta
 https://archive.org/download/20190822_20190822_0813/-%20%21nka%20nafas%20c%21nta.mp3
