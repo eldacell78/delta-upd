@@ -10,504 +10,216 @@
 
 #EXTM3U
 =====LOKAL Auto=====
-
-
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
-
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="Lokal Auto", SCTV 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
 #https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfhRuzYFazwEZlQUODDZDJGhLxRFea_Xefy9dfjz8on2NvjxyTDYLQX6FyLWKHP9zrEepwmNSkj7p3-H1A1VV89gQtBB7Vx8NBGMmOz2_b8dg6XwgA1Qrom5bEYEaTUyHNOfki0CAv8c4ql6bU7fnycJobQRZDCrEBHEk44l16zXHrR3E2Vz49ZwYlBGL/s340/indosiar.png" group-title="Lokal Auto", INDOSIAR 
-
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", MOJI
-
 http://xtv.ooo:8080/30912088/60996054/350997.ts
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-
 #http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
-
 #https://bit.ly/3tMoswx
-
-
 #EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/6a1f2zrsjxx311f/useeprime.png" group-title="Lokal Auto", Usee Prime
-
 #https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg", MNC TV
-
 #EXTVLCOPT:http-user-agent=android-R+
-
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUJClN9489ck5KsuO-VQ91Ss/ts
-
 #http://xtv.ooo:8080/user9940/9940user/350996
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI
-
 #EXTVLCOPT:http-user-agent=android-R+
-
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUG-db-ivIJexwcJChOQmCds/ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
-
 #https://spmid.pw:443/play/GkGM6jSBmCa7M-wN__A44xz-ZxEgAXrFRka8l9msaDo
-
 #http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
-
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI (Backup)
-
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ddc2zyaf9v8rs2ob84m1w/Gtv-hometv.png?rlkey=q53so172cfxige1f75de5d9hk&dl=0", GTV
-
 #EXTVLCOPT:http-user-agent=android-R+
-
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUIS5LQT8YZgnPqTIUeC3Ma8/ts
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ebyeeqqv06mjc9dq5nqgu/inews.png?rlkey=4lxo4zt56f62endkql165nykl&dl=0", INEWS
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 tvg-id="MNCNews.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKzlceyGigmxKzGQinyJy9ynscibnua6YL8joCZLwPI7k5tc4_RRwAoVUyfd_WzND4P1yI7-QHODiNCUT16nrRsYfKvKWPwDnclVUcUiLKXO5F9sDyOZbKPPsLYCBwo8acIkZmzvboLTWxwWOjDZvezcq9dWZpQZ0HbxNEie-SN_AeWda9l5T9SzrQ6PG4/w945-h600-p-k-no-nu/sindo_news.png" group-title="Lokal Auto", SINDO NEWS TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0", ANTV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/705yr2yzc1hwsl9pkxf67/Beritasatu-hometv.png?rlkey=jita226pe7ok0zs7bbw28mccq&dl=0", BTV/Berita satu
-
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0", TVONE
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
-
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
-
 https://flv.intechmedia.net/live/ch114.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/bj5v9ur2p61k2sc955omo/rtv.png?rlkey=86fjaa0gtq1ckc0ylv26d5u28&dl=0", RTV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/p305i3rgh4vqbsyoo8hoy/Kompastv-hometv.png?rlkey=l1zjtk9trf541tlktvupimr2e&dl=0", Kompas TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/75pgtqlac4o0fwjfpimvf/Metrotv-hometv.png?rlkey=vmq2zzlwl1auy8ebeer6bnorf&dl=0", Metro TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0", TRANS TV
-
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0", TRANS 7
-
 #EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/52fb63stclpufsw9lar2y/tvri.png?rlkey=f7z0e7tisbpxs3z5qinddtk8u&dl=0", TVRI
-
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg", DAAI TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd|Referer=https://www.visionplus.id/
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/dqe1au5pb3aj44i8bamef/jaktv.png?rlkey=yq4c1j44hnkm0sagxk6za1zlo&dl=0", JakTV
-
 #https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|Referer=https://www.visionplus.id/
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/t6isdttacf6v4fk7hu4mg/jtv.png?rlkey=r94c7yd6tz51i1gi3ykei4tf8&dl=0", JTV
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqgmKT7Ej9BYOeZCJVCHhJ3wkBq-T2ka4snB1YWsozJc1mdc7XriYpfn03kCmZqK9PdTbWgh28XybI730OdLhbzcfE3zgUwYmpLfsRX7pNjtd0I99YYcWmxqOU1i749LuIhgRn6A6gk_M/s720/bali-p.png", BALI TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
-
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-
 https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
 #http://xtv.ooo:8080/user9940/9940user/350897
-
-
-
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/03qtc7cjliw1pnqifds12/Bandung-tv-hometv.jpg?rlkey=mh0ocl6e9zh34di2k1d3gsxdj&dl=0", Bandung TV
-
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 
-
 ==============LOKAL HD=========
-
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFqTA5a2fk-xjZ7hsJ6MAe8TSsZw17Z0xE_Bz3nxVfxI-D1dKq6sZDBu_BhhqgfUvX4F1kF6FgnkwFiJ1MS6EBLsbSO_WQyQluzRK7kslIvUZKaVbFNA7IVgSgH6mxetI_rmNwk4GJehon9Nxqx38rT5zAjPDCMBLgX36FPrOOzPP3LmsV2gYGftef_DuK/s340/transtv.png" group-title="Lokal HD", TRANSTV 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqdFT9L7hdc1TPn5tUYodeKMVHKOXXG_14TtzNbmJ0HT7VX9rbNAT8JDxD0uzeAOt5sAomtPOg3L9XBsiKIPAMMzmzZMewpV8VR6cbLpTc5PZdBvpKCi20KBGZy5mpicHqj-oknxuXQRGK2x-pcOXt6H9kQz34aLcx2ZAFhSnacpfnGcdD54oDbVkZjxsx/s340/trans7%20(1).png" group-title="Lokal HD", TRANS 7 
-
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1nDT8YQL9muM3P_1sex-7hGERP0l5AfEac-vjFWNCDBnqCpyhb1EEHgIbDtVr2CvY6Hg4Iekl7cUHBEjM_evqM2eNLFhmwWBrFoyrjXROlBh8i_FirWAT6ok6d77tDvJBERLCjxGQGhQ7xK69XBEMyYS-QmCrRg0q5YTx1EiP7us1OaBM8pM774c7BQZt/s340/mnctv.png" group-title="Lokal HD", MNCTV
-
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMLqK29nYR0JW-4nG9cAVkLZlMhaw4_CeB8OuZm9_A-TVUGfzfvYanmm03aVKbxBsSQcFIAtaCUVYYZstUNjqmhfiIgPV_m2V-cQBi6P3EcPOdnuM7FcGuG3cGqvsEKXNTBBwekSXNCDQPoV4Wv-_M__tkgDW2YvYfAG9QrrEfQdlJ_ACQShs65kxg8QR/s340/rcti.png" group-title="Lokal HD", RCTI 
-
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
 #EXTVLCOPT:http-user-agent=android-R+
-
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaaCP4hwH3JLM7a4L0QR5cJ-X1zhuvJgJNgRD4__lvPqowlVtWRo1gyJnGq8yFhZJKy0daQgj-rcDw5H1Xxhfb5wiaUiBevlV1WnRPELhUdLvBXGYmLz0RCagzEMjCVWeMKLXkARt7WOsLxYn0hSktt8lWTIzHa7027PhQl2RIyttaFEkXhAYuZ8Ty8TKg/s340/gtv.png" group-title="Lokal HD", GTV 
-
 #EXTVLCOPT:http-referrer=https://visionplus.id
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
 #EXTVLCOPT:http-user-agent=android-R+
-
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0VGadTtoZ6nLogeuKWAH8PaFFULsGf7IZLRkXJyC8PBtNBAzsgImSpyDtN-124tYyuxuEQLGlCCxq-y6WBHZV_fkHGbbFpF0fvLRIC2lYl0LTGiZDadoWBWTDK1F-RZswnfXufApJH5V3OtjteXEFFniMboYAHjC7nOl7Sjraw-Jt1l5I-pHKYTPUZ5Jy/s340/sctv.png" group-title="Lokal HD", SCTV 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
 #http://stb.mbahnunungonline.net/live/m3u8/id/2b8fc230e8f847a.m3u8
-
 #http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts
-
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUKQS7EGPTsfVR5FSdmHxjV4/ts
-
 #http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0VGadTtoZ6nLogeuKWAH8PaFFULsGf7IZLRkXJyC8PBtNBAzsgImSpyDtN-124tYyuxuEQLGlCCxq-y6WBHZV_fkHGbbFpF0fvLRIC2lYl0LTGiZDadoWBWTDK1F-RZswnfXufApJH5V3OtjteXEFFniMboYAHjC7nOl7Sjraw-Jt1l5I-pHKYTPUZ5Jy/s340/sctv.png" group-title="Lokal HD", SCTV (Backup)
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfhRuzYFazwEZlQUODDZDJGhLxRFea_Xefy9dfjz8on2NvjxyTDYLQX6FyLWKHP9zrEepwmNSkj7p3-H1A1VV89gQtBB7Vx8NBGMmOz2_b8dg6XwgA1Qrom5bEYEaTUyHNOfki0CAv8c4ql6bU7fnycJobQRZDCrEBHEk44l16zXHrR3E2Vz49ZwYlBGL/s340/indosiar.png" group-title="Lokal HD", INDOSIAR 
-
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUHkowuHNIy-iMwYLCdPS9MI/ts
-
 #http://mytv-extra.com:80/live/t12mgxyb335/9832948789/45098.ts
-
 #http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101131
-
 #http://iptvtree.net:8080/AmirBilali/76448035/162138
-
 #http://108.181.132.217:8070/AmirBilali/76448035/162138
-
 #http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
-
 #http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
-
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfhRuzYFazwEZlQUODDZDJGhLxRFea_Xefy9dfjz8on2NvjxyTDYLQX6FyLWKHP9zrEepwmNSkj7p3-H1A1VV89gQtBB7Vx8NBGMmOz2_b8dg6XwgA1Qrom5bEYEaTUyHNOfki0CAv8c4ql6bU7fnycJobQRZDCrEBHEk44l16zXHrR3E2Vz49ZwYlBGL/s340/indosiar.png" group-title="Lokal HD", INDOSIAR (Backup)
-
 #https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Indosiar.m3u8
-
 https://spmid.pw:443/play/8inbV2W7LaYsoLGio17vtyNmkv3ZjbhgLoxnhTAONHk
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfhRuzYFazwEZlQUODDZDJGhLxRFea_Xefy9dfjz8on2NvjxyTDYLQX6FyLWKHP9zrEepwmNSkj7p3-H1A1VV89gQtBB7Vx8NBGMmOz2_b8dg6XwgA1Qrom5bEYEaTUyHNOfki0CAv8c4ql6bU7fnycJobQRZDCrEBHEk44l16zXHrR3E2Vz49ZwYlBGL/s340/indosiar.png" group-title="Lokal HD", INDOSIAR (Backup)
-
 #http://xtv.ooo:8080/Ijaaz123/aijaz321/350972
-
 #https://iptvqreatif.github.io/iptv/indosiar.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin79BtPX-5ngTJGcJdPMNmeZrGnOKItjtdK45NFSZFE9FGrju5rUQJcjEGznRWBHlOK7ZL9mjHENWk_oj9Npq_2H8ZxMqipjLdLw_WxoTHj24CFwQg-m_M3qEWWks0H75xQ7p5f-MJGzwisu77aLQLiL0PNnVoAHxR77KuK5socJUj5Ery7MvNgA8wdycM/s340/antv.png" group-title="Lokal HD", ANTV 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGVBplIbCEpeOU3emb9tNB-PzChoxhO7wShmyyNkjstX7kmK3mI2ZPLMe3-IQrNy1A5LNPVoDk-UeBzgLxTqRoFJpUocB0qqLgAEkqfWvO0qUrrEP2tlVDHf3u6-WaQpPqda369RWmWVNuhPhQ-CsS5l5HgZrLKnlzML_7lZvwN8KIQaLtBLYNqldrGXQB/s340/nettv.png" group-title="Lokal HD", NET TV 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF_dvJ-0xWfcnxZphYGZMaq-mo-87SLJ_oZzpjs3l5qLmJaFSjNtlmtoIixVdC7f-3AperCADuZU1I8VUZD-L-Sp_IOIyynYQXknr9VNYQje-z1oeICd6pr98XbVAQpFv7gPgIwypSiLXNOqCgYx855S7uFQV4ttDJuMOnufI3uqhFtbF09ivNCGhyphenhyphenYwlI/s340/rtv.png" group-title="Lokal HD", RTV 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-CWlTZLI0YRncQYYUSATlIFCh9j6v4qnWaSTGQkan3W1SS8e1_1rG2RtFWKVMjLkH0Y3kBjYD5ETP2YfcZbS-A3cgkKPwzmfBexxFFoNZ5Cx6Xmb3LJk2xMRu_w3l2rydkSs-57SRwMC2CCMPVl_A7ymG40cCATrePeNjAu2wsdf6__4FIh0h60OXIIS2/s340/tvri.png" group-title="Lokal HD", TVRI
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj72rmFdAejgwjI0cULCdxDCwry9_MW9VjcuoAKJjTWVHYY1I6av2Npqwq2_xz35aQyGEbBKfHdK2YcZuldgl6oX5z7XqywTMLyIijs1lnPKiE01U6mFxY2mURivsK4RvSS5VPJjYY6TOPk1k2rSiYNZBgg8gdj5Ga06qAeCdO7YbvbGp7RHftYzGgqsmMT/s340/jaktv.png"  group-title="Lokal HD",JAK TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
-
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnExC3DrXmBXVTRm9vkLzTkSkhvXLMyuo55QLFSK3DA98cG5i0-f_0OgWX8TrtfPgr3CibMmaSHsCwVZ_p3Bp7BmcuUVyWV3px1umdw1QK4kQAM9_ouhvKkJSvIlrDUPu2rNaot6U5fMIUMA41LTiQ1IuauS8IWz6qHC-VezisweazYjZ1bEQpHmLIdbC/s340/mentaritv.png" group-title="Lokal HD",Mentari TV
-
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFwFDHFxklXMJTgzXAklgLwlAWVKDJOFUrvUv-4St6rM20rVGpiwYt4G7RarRr7bFwMuGZKXeBD2trMvVOAL5WHXESJZjpcso6_ddjTNSLm_fMviiegy0X-ivrwZ-7V7F4f8HyIY-fTpVrHhyphenhyphenzNo6q_EfL1MO5tc2FXCqCja0afYeB55D4KJpDzTjD3xyN/w945-h600-p-k-no-nu/nusantaratv.jpg" group-title="Lokal HD",Nusantara TV
-
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzdaaVt_xhDa_N0EkF_suY5bzSNXhLa2CAhQPRQy1-rCx68QxacOiqKlp0UVMmKeNoX53fFU6vX6aKiRZaFrc5Hmj9MmmR6ed3g33J45PAjiT1cf7e7vpXXicm4IrVitVPQZ__mbk8_PmAZE3CVSxkEzjRM10t1nClFFDPEAg4bPQ6o3Hd4PKmhTGlH66/s340/moji.png"  group-title="Lokal HD",MOJI
-
 http://xtv.ooo:8080/live/0966717777/0966717777/350997.ts
-
 #http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101156
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzdaaVt_xhDa_N0EkF_suY5bzSNXhLa2CAhQPRQy1-rCx68QxacOiqKlp0UVMmKeNoX53fFU6vX6aKiRZaFrc5Hmj9MmmR6ed3g33J45PAjiT1cf7e7vpXXicm4IrVitVPQZ__mbk8_PmAZE3CVSxkEzjRM10t1nClFFDPEAg4bPQ6o3Hd4PKmhTGlH66/s340/moji.png"  group-title="Lokal HD",MOJI (Backup)
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-
 #http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101156
-
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg01Mkq-Lhd5qD_RihaI7SEtK4ycb6RrYvl0yXOU_p78c16_6x8JaWpYXfNBH0TJ_9pIyYYaYt01xluISHEAzKNFZ_aQbhQLmArEexiRoDAIeWLQa7s2Aw0W0PRMHaG1wVZmo5NAJLuqwbZderry8OGWQI7HUqorYBxvbqTSx7h_kEA7zc5o5s3_ZKiRT86/s340/jtv.png"  group-title="Lokal HD",JTV
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
-
 #http://103.155.250.139:25461/v3/Ub5dHa4TJp/29
-
-
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia47Y9_8CGlq8MPC_EYfG-BZSxTa8LKx_oOjg7W3IWsVoU7aJUDA9yfHbnQKlavihtKbgRtiam1g3p65ZUUCpNVVkS1xi4GcU4_ZVmK8Rlf9vXYwjlu6ytNn4xSVOwr1GyzdYf9BuxRmyehnWXfWVAGw0ycerpF4CD2zwisTa-8DvmnRRZVpB97JFSbJyv/s340/daaitv.png"  group-title="Lokal HD",DAAI TV
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-
 https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
-
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/c/ce/VTV_Indonesia_2023.svg.png/revision/latest?cb=20231121055604" group-title="Lokal HD",VTV
-
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
 https://flv.intechmedia.net/live/ch107.m3u8
-
 
 
 ==============Tv Daerah=========
@@ -3463,6 +3175,11 @@ https://v2.siar.us/mic/live/playlist.m3u8
 https://wms.klikhost.com:2020/stream/radiopensiunan
 #EXTINF:-1 group-title="Radio" tvg-logo="https://klikhost.com/lunaplayer/rdssamarinda/logo.png", Radio Darussalam Smd
 #https://klikhost.com/lunaplayer/rdssamarinda/
-https://www.rdssamarinda.com/
+#https://www.rdssamarinda.com/
+https://pu.klikhost.com/proxy/rdssamarinda/stream
 #EXTINF:-1 group-title="Radio" tvg-logo="https://radio-tv.islamiccenterkaltim.org/uploads/images/logo/logo_menu1676041194logomenu.png", Radio Islamic Center Kaltim
 https://audiostreamserver.indonesiastreaming.com/islamic_center
+#EXTINF:-1 group-title="Radio" tvg-logo="https://klikhost.com/wp-content/uploads/2022/03/suaramahakam-300x300.png", Suara Mahakam
+https://i.klikhost.com/8010/stream
+
+https://i.klikhost.com/8010/stream
