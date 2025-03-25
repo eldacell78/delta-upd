@@ -3459,10 +3459,10 @@ https://v2.siar.us/mic/live/playlist.m3u8
 
 ==============RADIO=========
 
-#EXTINF:-1 group-title="Musik" tvg-logo="https://radiopensiunan.com/wp-content/uploads/2024/02/LOGO-RESMI-350x250.jpg", Radio PENSIUNAN
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radiopensiunan.com/wp-content/uploads/2024/02/LOGO-RESMI-350x250.jpg", Radio PENSIUNAN
 https://wms.klikhost.com:2020/stream/radiopensiunan
-#EXTINF:-1 group-title="Musik" tvg-logo="https://klikhost.com/lunaplayer/rdssamarinda/logo.png", Radio Darussalam Smd
-#https://klikhost.com/lunaplayer/rdssamarinda
+#EXTINF:-1 group-title="Radio" tvg-logo="https://klikhost.com/lunaplayer/rdssamarinda/logo.png", Radio Darussalam Smd
+#https://klikhost.com/lunaplayer/rdssamarinda/
 https://www.rdssamarinda.com/
-#EXTINF:-1 group-title="Musik" tvg-logo="https://radio-tv.islamiccenterkaltim.org/uploads/images/logo/logo_menu1676041194logomenu.png", Radio Islamic Center Kaltim
+#EXTINF:-1 group-title="Radio" tvg-logo="https://radio-tv.islamiccenterkaltim.org/uploads/images/logo/logo_menu1676041194logomenu.png", Radio Islamic Center Kaltim
 https://audiostreamserver.indonesiastreaming.com/islamic_center
