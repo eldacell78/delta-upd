@@ -75,7 +75,7 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0", TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
+#EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://www.lyngsat.com/logo/tv/mm/md-tv-id.svg", NET.
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch114.m3u8
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/bj5v9ur2p61k2sc955omo/rtv.png?rlkey=86fjaa0gtq1ckc0ylv26d5u28&dl=0", RTV
@@ -311,6 +311,8 @@ https://wms.klikhost.net/kaltaratv/kaltaratv/playlist.m3u8
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0qw-TYS6TcY6CzA6J8UygrUj0H0vFvSXX2BkL__qHgg7tyPXOHbLKjAxlfhjI7zRZqSmnHuy0ODQPSfJ11DAm009q-uc8e8y3s1lUOd7m1ps61_iWOUmpruCAp4vkANxvAxHgktIhqpoHAB2tk9eWwgq_Fd8GmfBBwWnhteHfzqZzKrrR0PogZgg0qVGq/s300/radar.jpeg"  group-title="Tv Daerah", Radar Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+#EXTINF:0 group-title="Tv Daerah" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ayu-tvcc-id.png", AYU TVCC
+https://ayu.tvcc.tv/0c1775fc-3259-46d5-b137-7e9e88c20c5f
 
 ==============Tvri Group=========
 #EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="TVRI Group",TVRI Nasional
@@ -2556,7 +2558,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd
 #http://iptvtree.net:8080/Isidorchait/ea940f8fd1/247446
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/chh4oyo57v789vy/musikindo.png" group-title="Musik", MUSIK INDONESIA
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/musik-indonesia-id.png" group-title="Musik", MUSIK INDONESIA
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 
@@ -2711,21 +2713,21 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 https://live.24hrkpop.com/hls/3/stream.m3u8
 
 
-#EXTINF:-1 group-title="Musik" tvg-id="popmusic.id" tvg-logo="https://dl.dropbox.com/scl/fi/l3vw111qm0ftbnv5ig7nh/republictv.png?rlkey=zvqquivej396q99ynih36v85x&st=qq81oo91&dl=0",POP Music
+#EXTINF:-1 group-title="Musik" tvg-id="popmusic.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDRxMSezn0wma-nZHwnwXiK8ObguUkokyCXBB7LIeVmFMNaQiQmM-bAYFSusS6-ajkul1TpykyEfBkb84GgWf6HUiZnnIIuxxEdpmP1Divc3uOkU0LaIDcUWrSX0Ri7v9L07MvElUBorUb/s40-c/pop-musik-tv-channel-logo.png",POP Music
 
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Musik" tvg-id="maleo.id" tvg-logo="https://dl.dropbox.com/scl/fi/l3vw111qm0ftbnv5ig7nh/republictv.png?rlkey=zvqquivej396q99ynih36v85x&st=qq81oo91&dl=0",Maleo
+#EXTINF:-1 group-title="Musik" tvg-id="maleo.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png",Maleo
 
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://dl.dropbox.com/scl/fi/l3vw111qm0ftbnv5ig7nh/republictv.png?rlkey=zvqquivej396q99ynih36v85x&st=qq81oo91&dl=0",MIC TV
+#EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-information-channel-id.png",MIC TV
 
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 
