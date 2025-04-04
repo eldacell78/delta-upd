@@ -216,6 +216,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/c/ce/VTV_Indonesia_2023.svg.png/revision/latest?cb=20231121055604" group-title="Lokal HD",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Lokal HD",TV Kesehatan
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
 ==============Tv Daerah=========
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifoOMQWzG-h0r0gb8zTmfJWcQ3w1Z4IcvIx3rKhXvCd4TDxWx7J3bHCuUweHwRBn60N0j5ZtaLCts7sWOmhxLO3y1X3FYuwC2tn71uzGNU-TNq61E_fwFsMJT97ZwGWYHxDF1dD6nDUpewJx7wiIhEnXY22niV24TaKKcKvnha9ChJWUAUlfMdalSQ021k/s340/jowo_channel%20(1).png" group-title="Tv Daerah",Jowo Channel
