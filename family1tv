@@ -323,6 +323,8 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0qw-TYS6TcY6CzA6J8UygrUj0H0vFvSXX2BkL__qHgg7tyPXOHbLKjAxlfhjI7zRZqSmnHuy0ODQPSfJ11DAm009q-uc8e8y3s1lUOd7m1ps61_iWOUmpruCAp4vkANxvAxHgktIhqpoHAB2tk9eWwgq_Fd8GmfBBwWnhteHfzqZzKrrR0PogZgg0qVGq/s300/radar.jpeg"  group-title="Tv Daerah", Radar Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BQIi7ko.png", UBTV Brawijaya
+https://63b2dc7196c38.streamlock.net:443/UBTV/_definst_/myStream/playlist.m3u8
 #EXTINF:0 group-title="Tv Daerah" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ayu-tvcc-id.png", AYU TVCC
 https://ayu.tvcc.tv/0c1775fc-3259-46d5-b137-7e9e88c20c5f
 #EXTINF:0 group-title="Tv Daerah" tvg-logo="https://images.indihometv.com/assets/88_ATV_2025_03_17_15_20_21.png", ATV
@@ -2749,6 +2751,8 @@ https://youtube-m3u8-hiya-cuaks-slebew.questvulz.repl.co/video/p3m7kvlEy98.m3u8
 https://youtube-m3u8-hiya-cuaks-slebew.questvulz.repl.co/video/Gvfr_OoTp1E.m3u8
 #EXTINF:-1 group-title="Musik Live" tvg-id="mictv.id" tvg-logo="https://yt3.ggpht.com/mWRCmk38TSESl9Dip0L0kB1Gz3XujCwu8FUG6dqVyEVX2-BsD8NpEEayOUqYT9DbnU1JbEQ1pQ=s68-c-k-c0x00ffffff-no-rj, POP Indonesia - Nagaswara
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#EXTINF:-1 group-title="Musik Live" tvg-id="mictv.id" tvg-logo="https://i.imgur.com/eU4aqWy", Max2U
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(a255dd49-dc2a-464b-8623-6ef4556dff11)/index.m3u8
 
 ==============RADIO=========
 #EXTINF:-1 group-title="Radio" tvg-logo="https://radiopensiunan.com/wp-content/uploads/2024/02/LOGO-RESMI-350x250.jpg", Radio PENSIUNAN
@@ -2773,7 +2777,6 @@ https://i.klikhost.com/8010/stream
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 #https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SPORTSTAR 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
