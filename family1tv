@@ -323,7 +323,7 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0qw-TYS6TcY6CzA6J8UygrUj0H0vFvSXX2BkL__qHgg7tyPXOHbLKjAxlfhjI7zRZqSmnHuy0ODQPSfJ11DAm009q-uc8e8y3s1lUOd7m1ps61_iWOUmpruCAp4vkANxvAxHgktIhqpoHAB2tk9eWwgq_Fd8GmfBBwWnhteHfzqZzKrrR0PogZgg0qVGq/s300/radar.jpeg"  group-title="Tv Daerah", Radar Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BQIi7ko.png", UBTV Brawijaya
+#EXTINF:-1 group-title="Tv Daerah" tvg-logo="https://i.imgur.com/BQIi7ko.png", UBTV Brawijaya
 https://63b2dc7196c38.streamlock.net:443/UBTV/_definst_/myStream/playlist.m3u8
 #EXTINF:0 group-title="Tv Daerah" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ayu-tvcc-id.png", AYU TVCC
 https://ayu.tvcc.tv/0c1775fc-3259-46d5-b137-7e9e88c20c5f
