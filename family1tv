@@ -2747,3 +2747,44 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
 #https://kametv.my.id/pdx/play.mpd?id=17701
+
+==============Tv Daerah=========
+#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Tv Daerah",JAK TV
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/AkTV_2017.png" group-title="Tv Daerah",AKTV
+https://e.siar.us/live/aktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtnakl.png" group-title="Tv Daerah",TATV
+https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnMBe.png" group-title="Tv Daerah",Arek TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" group-title="Tv Daerah",BETV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch58.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" group-title="Tv Daerah",Jaya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch52.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="Tv Daerah",Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" group-title="Tv Daerah",BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbton3b.png" group-title="Tv Daerah",Pal TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch18.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto7MF.png" group-title="Tv Daerah",RBTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch59.m3u8
+
+#EXTINF:-1 tvg-id="AllPlay Ent.id" tvg-logo="https://iili.io/JZIno1s.png" group-title="Entertainment",AllPlay Ent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JZIoj94.png" group-title="Entertainment",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
