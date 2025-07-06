@@ -163,7 +163,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#https://sindikasi.inews.id/embed/video/YWdlbnQ9ZGVza3RvcCZ1cmw9aHR0cHMlM0ElMkYlMkZlbWJlZC5yY3RpcGx1cy5jb20lMkZsaXZlJTJGcmN0aSUyRmluZXdzaWQmaGVpZ2h0PTEwMCUyNSZ3aWR0aD0xMDAlMjU
+https://embed.rctiplus.com/live/rcti/inewsid
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -367,6 +369,8 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0qw-TYS6TcY6CzA6J8UygrUj0H0vFvSXX2BkL__qHgg7tyPXOHbLKjAxlfhjI7zRZqSmnHuy0ODQPSfJ11DAm009q-uc8e8y3s1lUOd7m1ps61_iWOUmpruCAp4vkANxvAxHgktIhqpoHAB2tk9eWwgq_Fd8GmfBBwWnhteHfzqZzKrrR0PogZgg0qVGq/s300/radar.jpeg"  group-title="Tv Daerah", Radar Tasikmalaya
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Tv Daerah" tvg-logo="https://www.lyngsat.com/logo/tv/ee/efarina_tv_id.png", Efarina Tv
+https://live.efarinatv.net/embed/video
 #EXTINF:-1 group-title="Tv Daerah" tvg-logo="https://i.imgur.com/BQIi7ko.png", UBTV Brawijaya
 https://63b2dc7196c38.streamlock.net:443/UBTV/_definst_/myStream/playlist.m3u8
 #EXTINF:0 group-title="Tv Daerah" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ayu-tvcc-id.png", AYU TVCC
@@ -2310,7 +2314,8 @@ https://66828a1cef624acf8412bae79cd7ad3e.mediatailor.ap-southeast-1.amazonaws.co
 
 #EXTINF:-1 group-title="Religi" tvg-id="JomMengaji" tvg-logo="https://yt3.ggpht.com/cRwQ4U2N0zIz8b3anlgBZsePfQUk_41EZKT-3AbS2E5sqAAGqL3in0-14RA2m3WEZ6UaSLrL=s48-c-k-c0x00ffffff-no-rj", Murotal Al Quran Juz 30 (Juz Amma) Merdu By Alaa Aqel
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749889468/ei/XN1MaNfECtqJ4t4Pz9zjuQg/ip/2001%3A448a%3A6102%3Aa4d8%3A7518%3Ae18e%3A7143%3A9a54/id/TAqlX6RH-Y4.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AY1jyLMX443lyRU-HuXFImbq4GBrXbUuII1OZHU5wQjPU1EpQW53mhwY3qBzTk6xND9Ij4pTJY5b-UH4/spc/l3OVKRPiMDFqHynuDu1NNyKg4EeWpzcanEchgmgZP0wGe5BC541BIwNGnrBO5vVtDh4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYZswjdWMu2ZU4-P36f6qjUVJn_BkomFErf2Zz6WxQcACIH9fZWwp8c8WRvRvpsiNlM5yk0Rmaqi411kFi3z_S-bi/file/index.m3u8
-
+#EXTINF:-1 group-title="Religi" tvg-id="JomMengaji" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dei-kids-tv-id.png",Dei Kids TV
+https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-1 group-title="Religi" tvg-id="tv10.id" tvg-logo="https://dl.dropbox.com/scl/fi/4kdpt1yrzxl82fxzpmh9d/tv10.png?rlkey=hy3oyl5lxy7kauz6rr20fno80&dl=0",TV10
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -2640,17 +2645,16 @@ https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Musik" tvg-id="maleo.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png",Maleo
-
 #EXTVLCOPT:http-user-agent=AccolaPlay/2.0.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Musik" tvg-id="mictv.id" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-information-channel-id.png",MIC TV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #https://v2.siar.us/mic/live/playlist.m3u8
-https://cdn.siar.us/player/?link=mic.siar.us/mic/live
 #https://cdn.siar.us/mic/live/playlist.m3u8
+#https://cdn.siar.us/player/?link=mic.siar.us/mic/live
+https://mic.siar.us/mic/live/playlist.m3u8
 ==============MUSIC LIVE
 #EXTINF:-1 group-title="Musik Live" tvg-id="mictv.id" tvg-logo="https://thumbor.prod.vidiocdn.com/1d41EE6_CkmaNk3xafKVNplQm_g=/124x124/smart/filters:format(webp):quality(80)/vidio-web-prod-user/uploads/user/avatar/125/aqmvideo-cd6565.jpg", Aquarius Musikindo
 #https://ythls.onrender.com/video/6kLgFnyDqn8.m3u8
