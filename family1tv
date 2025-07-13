@@ -53,7 +53,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
 https://list.iptvcat.com/my_list/s/b8fe7c4408ca54c30a6101352f5e9fe1.m3u8
-https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#https://testfunctionlive.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #https://spmid.pw:443/play/GkGM6jSBmCa7M-wN__A44xz-ZxEgAXrFRka8l9msaDo
 #http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
 #https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8?c
@@ -67,7 +67,8 @@ https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/refs/heads/main/indo/rctihd.m3u8
 #EXTINF:-1 group-title="Lokal Auto" tvg-logo="https://dl.dropbox.com/scl/fi/lhtjectukjdkrb8zg8mkm/Rcti-hometv.png?rlkey=ho2ylxdelgsr4e0t7popt28bz&dl=0", RCTI (Backup)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
