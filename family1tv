@@ -3053,3 +3053,14 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1749126427/ei/u
 #EXTINF:-1 group-title="Musik Live" tvg-id="mictv.id" tvg-logo="https://yt3.ggpht.com/gTylg4Ymd2ykZPQO1tK5lclMgLIWhWKikihZwZk5Q-dHvq6b4xhsxmsbHGPFi-bQ3QqBMssk=s48-c-k-c0x00ffffff-no-rj", Lagu Pop Indonesia Hits Terbaru
 #https://www.youtube.com/watch?v=UqkBdyi5Uwg
 #https://www.youtube.com/embed/UqkBdyi5Uwg 
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", group-title="Lokal Auto", SCTV Auto
+https://raw.githubusercontent.com/Arrasyid22/inaldie/refs/heads/master/SCTV.m3u8
+#EXTINF:-1 tvg-logo="https://www.indosiar.com/assets/logo.png", group-title="Lokal HD", INDOSIAR HD2
+#https://raw.githubusercontent.com/b4byhuey/chunklist/refs/heads/master/INDOSIAR.m3u8
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png",group-title="Lokal HD", SCTV HD
+https://arrasyid22.github.io/inaldie/SCTV.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="Lokal Auto", SCTV ⚪
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
